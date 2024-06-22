@@ -1,0 +1,221 @@
+Maintenance,Product
+Monthly budget maintenance Jan,PBTH
+Monthly budget maintenance Feb,PBTH
+Monthly budget maintenance Mar,PBTH
+Monthly budget maintenance Apr,PBTH
+Monthly budget maintenance May,PBTH
+Monthly budget maintenance June,PBTH
+Monthly budget maintenance July,PBTH
+Monthly budget maintenance Aug,PBTH
+Monthly budget maintenance Sept,PBTH
+Monthly budget maintenance Oct,PBTH
+Monthly budget maintenance Nov,PBTH
+Monthly budget maintenance Dec,PBTH
+A Check,Airframe
+C Check,Airframe
+C01 Check,Airframe
+C02 Check,Airframe
+C03 Check,Airframe
+C04 Check,Airframe
+C05 Check,Airframe
+C08 Check,Airframe
+C09 Check,Airframe
+C10 Check,Airframe
+C11 Check,Airframe
+C12 Check,Airframe
+1 Years Inspection,Airframe
+2 Years Inspection,Airframe
+3 Years Inspection,Airframe
+4 Years Inspection,Airframe
+5 Years Inspection,Airframe
+6 Years Inspection,Airframe
+7 Years Inspection,Airframe
+8 Years Inspection,Airframe
+9 Years Inspection,Airframe
+10 Years Inspection,Airframe
+11 Years Inspection,Airframe
+12 Years Inspection,Airframe
+End of Lease Check,Airframe
+Redelivery,Airframe
+Reactivation,Airframe
+Bridging Check,Airframe
+Aircraft Prolong,Airframe
+Aircraft Parking,Airframe
+AD-SB Workscope,Airframe
+D01 Check,Airframe
+D02 Check,Airframe
+D03 Check,Airframe
+D04 Check,Airframe
+De-Registration,Airframe
+Nacelle Repair,Airframe
+Hajj Reactivation,Airframe
+HMV Check,Airframe
+Inlet Cowl Repair,Airframe
+LDG Change,Airframe
+Engine Change,Airframe
+OMV Check,Airframe
+Fuselage Re-Skinning,Airframe
+Repair Structure,Airframe
+OOP Check,Airframe
+CPCP Task,Airframe
+SSID tasks,Airframe
+Aircraft Painting White Livery,Airframe
+Aircraft Painting Full Livery,Airframe
+NDT performance,Airframe
+Onsite BSI,Airframe
+Additional Work,Airframe
+Pickle Fork Fitting Repair,Airframe
+SR Check,Airframe
+Retail Aircraft,Airframe
+6 Month Check,Airframe
+8 Month Check,Airframe
+12 Month Check,Airframe
+18 Month Check,Airframe
+24 Month Check,Airframe
+36 Month Check,Airframe
+Landing Gears Overhaul,Airframe
+Pengiriman personil NDT,Airframe
+APU Replacement,Airframe
+Nose Landing Gear Replacement,Airframe
+Main Landing Gear Replacement,Airframe
+Nose Wheel Replacement,Airframe
+Main Wheel Replacement,Airframe
+Brake Replacement,Airframe
+Engine Replacement,Airframe
+Nose Landing Gear Repacking,Airframe
+Main Landing Gear Repacking,Airframe
+Engine Preservation,Airframe
+APU Preservation,Airframe
+Aircraft Weighing and Balance,Airframe
+Compass Swing,Airframe
+Landing Gear Overhaul,Component
+Availability Inhouse,Component
+Purchase Component,Component
+Pooling Component,Component
+Repair Component,Component
+Loan Component,Component
+Exchange Component,Component
+Wheel Brake Overhaul,Component
+Landing Gear Cadmium Plating and Parts Hardcrome,Component
+Overhaul Component,Component
+APU Repair,Engine & APU
+Engine Overhaul,Engine & APU
+APU Overhaul,Engine & APU
+LPT module replacement,Engine & APU
+Medium Repair,Engine & APU
+Full Boroscope,Engine & APU
+Partial Boroscope,Engine & APU
+Performance Restoration,Engine & APU
+Top Case Repair,Engine & APU
+Engine shop visit,Engine & APU
+APU Mounting Damage,Engine & APU
+Test Cell,Engine & APU
+Certification,Engine & APU
+HPT Replacement,Engine & APU
+Quick Turn Repair,Engine & APU
+Shop Visit,Engine & APU
+Engine teardown,Engine & APU
+Engineering,Engineering
+FDR and CVR Read Out and Analysis,Engineering
+Seat Reconfiguration,Engineering
+Thermographic Inspection,Engineering
+ELCID Test,Engineering
+Demo Evacuation,Engineering
+Seat Modification,Engineering
+Modification ADS-B,Engineering
+IFE Cabin,Line
+Compressor Washing,Line
+Perform NDT,Line
+Replace bearing,Line
+Cabin recondition Seat and Carpet,Line
+AOG recovery,Line
+Phase Array Inspection,Line
+Refurbishment Cooler Air Compressor,Line
+Electrical Assessment,Line
+Compressor cleaning,Line
+Aircraft Exterior Dry Washing,Line
+Aircraft Exterior Wet Washing,Line
+Basic Interior Cleaning,Line
+Carpet Deep Cleaning Aisle,Line
+Carpet Deep Cleaning Underseat,Line
+Daily Interior Cleaning,Line
+Exterior Washing,Line
+Polishing,Line
+Seat Belt Laundry,Line
+Standard Cabin Check,Line
+Transit Check,Line
+BD Check,Line
+Daily Check (24H),Line
+Daily Check (48H),Line
+Weekly Check,Line
+Materil Trading,Material Trading
+Engine Stand Loan,Material Trading
+Material Trading Scrap,Material Trading
+Engine purchase,Material Trading
+Excess Customer Part Shipment,Material Trading
+Excess Customer Part Return,Material Trading
+Rental Space,Material Trading
+Exchange,Material Trading
+Engine Shipment,Material Trading
+Training,Training
+SMS Training,Training
+Type Training,Training
+Familiarisation Training,Training
+Mandatory & GSE Training,Training
+Recurrent Training,Training
+Basic Training,Training
+Human Factor Training,Training
+Type Rating,Training
+Training Aircraft Battery,Training
+General Training,Training
+Training NDT,Training
+GSE Training,Training
+Hot Gas Path Inspection,IGTE
+Combustion Inspection,IGTE
+Part Repair,IGTE
+Field Services,IGTE
+MG Repair,IGTE
+Repair,IGTE
+LTSA Part Repair,IGTE
+Rejuvenation Engine,IGTE
+Rewinding,IGTE
+NDT,IGTE
+RCFA,IGTE
+Overhaul Generator,IGTE
+Overhaul GTG,IGTE
+VSV Replacement,IGTE
+Annual Inspection,IGTE
+Overhaul Motor,IGTE
+Material Supply,IGTE
+Overhaul Compressor,IGTE
+Overhaul Gearbox,IGTE
+Boroscope,IGTE
+Major Inspection,IGTE
+Inspection Recurrent RSO,IGTE
+Repair Turbine Rotor,IGTE
+Revitalization,IGTE
+Assessment,IGTE
+Repair 1st Stage Nozzle,IGTE
+Repair Compressor,IGTE
+Fabrication Docking & Tools,IGTE
+HGPI part Refurbishment,IGTE
+Re Certification CAAM,IGTE
+Nickel Plating,IGTE
+Core Module Repair,IGTE
+Overhaul Rotor,IGTE
+Jasa Cleaning Fuel Nozzle,IGTE
+Visual Check Pinion and Wheel Gear of GTG,IGTE
+Module swap,IGTE
+Repair Aircraft Jack,IGTE
+Rewinding DC Generator,IGTE
+Refurbish,IGTE
+VSV Bushing Replacement,IGTE
+HGP Repair,IGTE
+Weight Balance Turbin,IGTE
+ELCID Test Generator,IGTE
+Bump Test,IGTE
+Repair GTG Shaft Turbine,IGTE
+Trim balance Generator,IGTE
+Rectification CAAM,IGTE
+Pooling Component,PBTH
+A Check,Line

@@ -1,0 +1,1012 @@
+CUSTOMER;PRODUCT;TRANSACTION TYPE;YEAR;GROUP TYPE;PROSPECT TYPE;STRATEGIC INITIATIVE;SALES TYPE;PROJECT MANAGER;HANGAR;LINE;UNIT;AMS;AREA;COUNTRY;REGION;AC/ENG/APU/COMP;AC-REG;MAINTENANCE EVENT;MARKET SHARE;SALES PLAN;Sales Updated;REMARKS;SO NUMBER;START DATE;TAT;END DATE;SALES LEVEL;STATUS;CANCEL REASON;DETAILED CANCEL REASON
+Pupuk Kalimantan Timur;IGTE;TMB Project;2023;NGA;Organic;;Additional;;;;;NA;I;;;GE Frame 5 dan 6;;LTSA Part Repair GE Frame 5 dan 6;;  ;310000;GMF sudah terpilih sebagai pemenang tender, proses pembuatan kontrak dengan PKT. Nilai kontrak di sesuaikan sesuai anggaran menjadi Est 310 KUSD. Kontrak akan di propose renewal apabila sudah habis. Potensi pekerjaan 690 KUSD sesuai jadwal.;;2023-01-31;1095;2026-01-30;1;Closed - Sales;;
+Guangzo Hangxin Avionics;Material Trading;TMB Project;2023;NGA;Organic;;Additional;;;;;AM;I;;;Component;Various;Material Trading Offset;;  ;86500;On progress completed support document for offset;;2023-04-28;60;2023-06-27;3;Open;;
+Iraqi Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;RM;III;;;B747-400;YI-AQQ;C-Check + LDG change;;500000;500000;Proposal sudah dikirim ke IAW tgl 16Jan. Menunggu respons;;2023-04-29;30;2023-05-29;3;Cancelled;Capacity Capability;No slot available in H1
+Griffon Aviation Services;Engine & APU;TMB Project;2023;NGA;Organic;;Additional;;;;;RM;III;;;CFM56-7B;ESN 660863;Engine shop visit;;;400000;Proposal was sent on 25/10;;2023-03-14;90;2023-06-12;2;Open;;
+Indonesia AirAsia;Engine & APU;TMB Project;2023;NGA;Organic;;Additional;;;;;IH;II;;;APU GTCP191-9A;P-3281;APU Overhaul;;;400000;w/f proposal approval and No Lien Statement;;2023-03-15;50;2023-05-04;2;Open;;
+Aeroeagle;Engine & APU;TMB Project;2023;NGA;Organic;;Additional;;;;;JT;III;;;CFM56-3B1;722370;Performance restoration;;;200535;"- [24 Sep 2022] RFQ received. COGS under progress.
+- [5 Oct 2022] COGS and pricing received. Proposal under progress.
+- [12 Oct 2022] Proposal submitted.
+- [20 Oct 2022] Proposal discussion meeting with Aeroeagle & Trigana.
+- [7 Nov 2022] Still under Customer consideration, mostly on budget planning.
+- [29 Dec 2022] Induction plan to be carried over to 2023.
+- [19 Jan 2023] Maintenance plan cancelled.";;2023-02-20;90;2023-05-21;2;Cancelled;Customer Financial;Owner plans to sell the engine as is due to possible BER.
+Griffon Aviation Services;Engine & APU;TMB Project;2023;NGA;Organic;;Additional;;;;;RM;III;;;CFM56-7B;ESN 658905;First shop visit;;;500000;Proposal was sent to griffon;;2023-03-07;90;2023-06-05;3;Open;;
+US-Bangla;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;SS;II;;;B737NG;S2-AJC;B737NG C-Check;;;300000;Reschedule to May 2023;;2023-05-22;21;2023-06-12;4;Open;;
+PLN Paya Pasir;IGTE;TMB Project;2023;NGA;Organic;;Additional;;;;;AM;I;;;ENG;;GE MS6001 Repair Part Stage (Repair Combustion Liner, Transition Piece Repair Cross Fire Tube, Flow Sleeve);;;150000;"- Sudah diinsfeksi oleh team TZ di Indralaya tgl. 18 Okt 22
+- Sudah submit penawaran harga di pertengahan November berdasarkan COGS dari team produksi.
+- Masih dalam proses pengajuan Anggaran 2023 dan menunggu feedback dari customer jika anggaran sudah disetujui";;2023-04-28;120;2023-08-26;3;Open;;
+PLN Belawan;IGTE;TMB Project;2023;NGA;Organic;;Additional;;;;;AM;I;;;;;Refurbish Rotor dan Stator Blade Turbin Siemens V94.2;;;400000;"- Proposal sudah di submit
+- Informasi dari customer pekerjaan estimasi paling cepat dimulai pertengehan tahun 2023
+- Menunggu Tender";;2023-06-28;180;2023-12-25;4;Open;;
+AFO Aircraft (NZ) Limited;Engine & APU;TMB Project;2023;NGA;Organic;;Additional;;;;;JT;III;;;CFM56-3;726202;Engine teardown;;;30000;"- [1 Nov 2022] Request GTA to TSB
+- [10 Nov 2022] GTA initial draft processing by TSB
+- [11 Nov 2022] GTA draft sent to Customer for review.
+- [30 Nov 2022] Customer informs that AFO Engineering will send the workscope.
+- [12 Dec 2022] Waiting for workscope revision from AFO Engineering.
+- [29 Dec 2022] Still waiting for workscope revision and GTA draft feedback. Induction plan to be carried over to 2023.";;2023-02-06;15;2023-02-21;2;Cancelled;Internal Customer;No response from Customer. Several communication attempted.
+AFO Aircraft (NZ) Limited;Engine & APU;TMB Project;2023;NGA;Organic;;Additional;;;;;JT;III;;;CFM56-3;857542;Engine teardown;;;30000;"- [1 Nov 2022] Request GTA to TSB
+- [10 Nov 2022] GTA initial draft processing by TSB
+- [11 Nov 2022] GTA draft sent to Customer for review.
+- [30 Nov 2022] Customer informs that AFO Engineering will send the workscope.
+- [12 Dec 2022] Waiting for workscope revision from AFO Engineering.
+- [29 Dec 2022] Still waiting for workscope revision and GTA draft feedback. Induction plan to be carried over to 2023.";;2023-02-13;15;2023-02-28;2;Cancelled;Internal Customer;No response from Customer. Several communication attempted.
+Indokomas;IGTE;TMB Project;2023;NGA;Organic;;Additional;;;;;DY;I;;;Siemens;NA;OVH Generator;;;253333;Overhaul Generator Antam;;2023-01-17;90;2023-04-17;4;Cancelled;Internal Customer;Tender dihold untuk sementara dan akan diupdate kembali
+Pertamina Power Indonesia (PPI);IGTE;TMB Project;2023;NGA;Organic;;Additional;;;;;DY;I;;;GE Frame 5-6;NA;LTSA;;;300000;LTSA integrasi Turbin - Generator PHR;;2023-08-01;1825;2028-07-30;4;Open;;
+Cebu Pacific;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;IH;II;;;A320;RP-C3264;C03+LC+OOP+WB Check;;;297800;Resecheduled to Feb 2023 d/t readiness the aircraft for ferry flight;;2023-03-24;28;2023-04-21;1;Closed - Sales;;
+Aeroeagle;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;NA;NA;Biding Engine;;1000000;1000000;;;2023-06-06;120;2023-10-04;4;Cancelled;Reschedule;Engine Document not clear yet.
+Air Caledonie;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;AC;F-OZKN;C-check;;125000;125000;;;2023-04-28;24;2023-05-22;3;Cancelled;Internal Customer;sedang menungu feedback atas tidak diterimanya proposal GMF atas pekerjaan yang dimaksud
+Air Caledonie;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;125000;125000;;;2023-06-01;90;2023-08-29;4;Open;;
+Air Caledonie;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;125000;125000;;;2023-09-01;90;2023-11-29;4;Open;;
+Air Caledonie;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;125000;125000;;;2023-12-01;90;2024-02-28;4;Open;;
+Air Calin;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;150000;150000;;;2023-05-01;90;2023-07-29;4;Open;;
+Air Calin;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;150000;150000;;;2023-10-01;90;2023-12-29;4;Open;;
+Air Vanuatu;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;150000;150000;;;2023-06-01;90;2023-08-29;4;Open;;
+Air Vanuatu;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;100000;100000;;;2023-08-01;90;2023-10-29;4;Open;;
+Airwork;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;AC;ZK-FXL;C-check;;200000;200000;;;2023-04-01;60;2023-05-31;3;Open;;
+Airwork;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;200000;200000;;;2023-04-01;90;2023-06-29;3;Open;;
+Airwork;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;200000;200000;;;2023-06-01;90;2023-08-29;3;Open;;
+Airwork;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;200000;200000;;;2023-07-01;90;2023-09-28;3;Open;;
+All Customer - Logistic;Material Trading;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;Material Trading & Logistic;Various;Material Trading & Logistic;;479762;40000;Monthly transaction retail Material Trading & Logistic;;2023-01-01;30;2023-01-31;4;Open;;
+Alliance Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;125000;125000;;;2023-10-01;90;2023-12-29;4;Open;;
+Alliance Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;125000;125000;;;2023-12-01;90;2024-02-28;4;Open;;
+Bombardier;Component;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;;;150000;150000;;;2023-12-01;15;2023-12-15;4;Open;;
+Cikarang Listrindo;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;DY;I;;;GE Frame 5;NA;OVH Generator;;343394;343394;;;2023-06-01;90;2023-08-30;4;Cancelled;Internal Customer;Masih Menunggu detail Pekerjaan dan  Schedule
+Fiji Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;AC;DQ-FJT;Painting;;150000;150000;Livery Paint to papua nugini colour;;2023-06-10;20;2023-06-30;3;Open;;
+Fiji Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;AC;DQ-FJU;Painting;;150000;150000;;;2023-06-26;20;2023-07-16;3;Open;;
+Fiji Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;100000;100000;;;2023-05-01;90;2023-07-29;4;Open;;
+Fiji Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;100000;100000;;;2023-08-01;90;2023-10-29;4;Open;;
+Fiji Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;100000;100000;;;2023-11-01;90;2024-01-29;4;Open;;
+Fiji Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;200000;200000;;;2023-07-01;90;2023-09-28;4;Open;;
+Fiji Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;200000;200000;;;2023-10-01;90;2023-12-29;4;Open;;
+Fire Tech Indonesia;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;DY;I;;;LM6000;NA;OVL LM6000;;100000;100000;;;2023-06-01;90;2023-08-30;4;Cancelled;Missed Plan;Waiting Tender Update
+FSD;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;;;Repair Compressor;;100000;100000;;;2023-06-01;90;2023-08-29;3;Open;;
+Guangzo Hangxin Avionics;Material Trading;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;Component;Various;Material Trading Offset;;86500;86500;;;2023-02-01;90;2023-05-02;3;Cancelled;Reschedule;Double input on system
+Hensan Andalas Putera;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;DY;I;;;LM 6000;NA;OVH Generator;;150000;150000;;;2023-08-01;90;2023-10-30;3;Cancelled;Missed Plan;Blm ada update Pekerjaan
+Indo Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;;;110000;110000;;;2023-06-01;15;2023-06-16;4;Open;;
+Indo Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;;;110000;110000;;;2023-04-01;15;2023-04-16;4;Cancelled;Internal Customer;-
+Indo Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;;;110000;110000;;;2023-04-01;15;2023-04-16;4;Cancelled;Internal Customer;-
+Indo Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;;;100000;100000;;;2023-08-01;15;2023-08-16;4;Open;;
+Indo Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;;;100000;100000;;;2023-05-01;15;2023-05-16;4;Cancelled;Internal Customer;-
+Indo Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;;;100000;100000;;;2023-05-01;15;2023-05-15;4;Open;;
+Indo Pelita Air Service/ PBAS;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;Various motor and generator;Various;Repair Parts;;550000;10000;;;2023-10-25;180;2024-04-22;4;Open;;
+Indocement;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;DY;I;;;Steam Turbin Generator;NA;OVH STG;;100000;100000;;;2023-08-01;90;2023-10-30;4;Cancelled;Missed Plan;Belum ada Update terkait Plan OVH, masih menunggu Budget
+Indonesia Power - Bali;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;1300;1300;Repair Jet Lances 13E2;;40000;40000;Menunggu proses pengadaan dari Customer di bulan Maret 2023, proposal budgeting sudah dikirimkan;;2023-03-30;150;2023-08-27;2;Open;;
+Indonesia Power - Tambak Lorok Semarang;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;GE MS 9001;2.3 & 2.1;OTG APO CI GTG 2.3 DAN 1.2 - JASA PEKERJAAN REPAIR MAIN PART (TPCL)  TAHUN 2023;;200000;103500;"Sudah SKP, Proses Kontrak, Project :OTG APO CI GTG 2.3 DAN 1.2 - JASA PEKERJAAN REPAIR MAIN PART (TPCL) 
+TAHUN 2023";;2023-01-01;120;2023-05-01;1;Closed - Sales;;
+Indonesia Power - Bali;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;1300;;Repair EV Burner;;60000;60000;Menunggu proses pengadaan dari Customer di bulan Maret 2023, proposal budgeting sudah dikirimkan;;2023-03-31;90;2023-06-29;2;Open;;
+Indonesia Power - Tanjung Priok;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;;;Rejuvination;;550000;550000;;;2023-12-01;150;2024-04-28;3;Open;;
+Indonesia Power - Tanjung Priok;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;;;Repair HGC Inner Liner;;500000;500000;;;2023-12-01;150;2024-04-28;3;Open;;
+Indonesia Power - Tanjung Priok;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;;;Repair Parts;;50000;50000;;;2023-06-01;45;2023-07-16;3;Open;;
+Jindi South Jambi co Ltd;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;;;Overhaul GTG;;450000;450000;;;2023-12-01;150;2024-04-28;3;Open;;
+Kaltim Daya Mandiri (KDM);Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;GE Frame 6;;GE Frame 6 - Part Repair;;100000;100000;Canceled due to pricing issue;;2023-06-01;90;2023-08-30;4;Cancelled;Pricing;Pricing above Albany
+KARTANEGARA ENERGI PERKASA (KEP);Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;LM6000;LM6000;Repair HGP component;;1550000;300000;;;2023-11-20;210;2024-06-17;3;Open;;
+Kereta Api Indonesia (Persero);Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;;;Repair Generator;;150000;150000;;;2023-06-01;90;2023-08-29;3;Open;;
+Kereta Api Indonesia (Persero);Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;;;Repair Generator;;150000;150000;;;2023-05-01;90;2023-07-29;3;Open;;
+Kereta Api Indonesia (Persero);Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;;;Repair Generator;;150000;150000;;;2023-05-01;90;2023-07-29;3;Open;;
+Kereta Api Indonesia (Persero);Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;;;Repair Generator;;150000;150000;;;2023-06-01;90;2023-08-30;3;Open;;
+Kereta Api Indonesia (Persero);Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;;;Repair Generator;;150000;150000;;;2023-06-01;90;2023-08-30;3;Open;;
+Kereta Api Indonesia (Persero);Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;;;Repair Generator;;150000;150000;;;2023-01-31;90;2023-05-01;1;Closed - Sales;;
+Kereta Commuter Indonesia (KCI);Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;;;Repair Generator;;100000;100000;;;2023-06-01;90;2023-08-30;3;Open;;
+Kontraktor Kontrak Kerja Sama (K3S);Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;;;;;100000;100000;;;2023-11-01;120;2024-02-28;4;Open;;
+Krakatau Daya Listrik;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;DY;I;;;GE Frame 5;SN;Turbin Repair;;100000;100000;;;2023-10-01;90;2023-12-30;4;Cancelled;Internal Customer;Dipindah ke Bu Maryati
+MITRA ENERGY BATAM (MEDCO PR);Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;RB211;RB211;Assessment GG;;50000;50000;;;2023-05-01;14;2023-05-15;4;Open;;
+Nauru Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;150000;150000;;;2023-04-01;90;2023-06-29;4;Open;;
+Nauru Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;AC;VH-ONU;C-check;;150000;150000;;;2023-03-30;63;2023-06-01;4;Cancelled;Capacity Capability;Customer tidak puas dengan hasil pekerjaan sebelumnya
+Nauru Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;150000;150000;;;2023-07-01;90;2023-09-28;4;Open;;
+Nauru Airlines;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;Repair;;150000;150000;;;2023-07-01;30;2023-07-30;4;Open;;
+Nauru Airlines;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;Repair;;150000;150000;;;2023-07-01;30;2023-07-30;4;Open;;
+Pacific Air;Material Trading;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;Component;Various;Material Trading Offset;;50000;50000;Customer propose to implement credit ceiling yearly 50K, under review based on monthly GMF requirement purchase material to Pac Air;;2023-04-01;90;2023-06-30;4;Open;;
+Pema Global Energy;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;Frame 03;GE Frame 5;Assessment Control Frame 3;;250000;10000;;;2023-07-01;30;2023-07-31;4;Open;;
+Pembangkit Jawa Bali (PJB) Gresik;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;DY;I;;;M701D;NA;LTSA;;250000;250000;Waiting Re-Tender;;2023-08-01;90;2023-10-30;4;Open;;
+Pembangkit Jawa Bali (PJB) UMRO;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;;;Repair Parts;;105000;105000;;;2023-11-01;60;2023-12-30;4;Open;;
+Pembangkit Jawa Bali (PJB) UMRO;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;DY;I;;;Turbin;NA;Repair Turbin;;105000;105000;;;2023-10-01;90;2023-12-30;4;Cancelled;Internal Customer;Belum ada Plan untuk Unit Pembangkit - Kemungkinan mengerjakan Sendiri
+Pembangkit Jawa Bali (PJB) UP Cirata;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;Hydro generator;Hydro Generator;Rotor Pole Replacement;;500000;150000;;;2023-10-23;180;2024-04-20;3;Open;;
+Pembangkit Jawa Bali (PJB) UP Muara Tawar;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;;Siemens / Alstom;Repair Parts;;300000;300000;;;2023-09-01;90;2023-11-29;4;Open;;
+Pembangkit Jawa Bali Services (PJBS);Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;LM2500;;Repair Parts;;350000;5000;;;2023-07-24;90;2023-10-22;4;Open;;
+Pembangkit Jawa Bali Services (PJBS);Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;;;Repair Parts;;150000;150000;;;2023-05-01;90;2023-07-29;4;Open;;
+Pembangkit Jawa Bali Services (PJBS);Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;;;Control House Trailer;;600000;600000;;;2023-02-01;120;2023-06-01;3;Cancelled;Pricing;Tender di menangkan IMECO
+Pertamina EP Cepu;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;Solar Taurus 60/70 & Mars 130;;Preventive dan correctiveMaintenance;;150000;425000;;;2023-04-17;180;2023-10-14;3;Open;;
+Pertamina EP Jawa Region;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;Ora GTG 1C;OPRA;Repair Parts;;210000;0;;;2023-09-01;120;2023-12-30;3;Cancelled;Internal Customer;Akan dikerjakan OeM via local reprentative
+Pertamina Geothermal;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;DY;I;;;;;;;150000;150000;;;2023-06-01;90;2023-08-29;4;Open;;
+Pertamina Hulu Indonesia;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;;Solar Centaur;Repair Parts;;100000;100000;;;2023-10-01;90;2023-12-29;4;Open;;
+Pertamina Hulu Indonesia;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;;LM2500;Repair Parts;;200000;200000;;;2023-08-01;90;2023-10-29;3;Open;;
+Pertamina Hulu Rokan;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;;GE Frame 5/6;Repair Parts;;100000;100000;;;2023-08-01;90;2023-10-29;4;Open;;
+Pertamina International Shipping;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;;;;;100000;100000;;;2023-10-01;120;2024-01-28;4;Open;;
+Pertamina Power Indonesia (PPI);Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;DY;I;;;Turbine;Tbd;O n M;;650000;650000;;;2023-08-14;120;2023-12-12;3;Open;;
+Pertamina RU III;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;motor MV dan LV;various;Overhaul Motor;;120000;120000;Proses tender pemasukan tgl 22 feb;;2023-03-30;90;2023-06-28;3;Open;;
+Pertamina RU IV;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;Compressor;165K502A;Compressor coating;;125000;35000;;;2023-04-28;50;2023-06-17;3;Open;;
+Pertamina TPPI (Petrochemical);Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;DY;I;;;Motor 202-P-003B-M, Overhaul Motor 203-P-002B-M;SN;Overhaul;;280000;280000;Proposal Administrasi sudah submit, menunggu sampul 2;;2023-10-01;45;2023-11-15;3;Open;;
+Philipine & Vietnam (power generator);Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;DY;I;;;NA;NA;Generator and Turbin;;350000;350000;;;2023-10-01;90;2023-12-30;4;Cancelled;BP Fee;Waiting Open Tender - belum ada info lebih lanjut
+PLN Batam Bright;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;;;Repair Parts;;300000;300000;;;2023-03-01;60;2023-04-30;4;Cancelled;Reschedule;Sales Plan di alihkan ke AM
+PLN Belawan;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;;;Repair Parts;;1200000;1200000;;;2023-03-01;60;2023-04-30;3;Cancelled;Reschedule;Sales Plan di alihkan ke AM
+PLNSC ( Prima Layanan Niaga Suku Cadang );Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;DY;I;;;NA;NA;Waiting Update From  Customer untuk Plan;;100000;100000;;;2023-06-01;90;2023-08-30;3;Cancelled;Internal Customer;Menunggu Update sales Plan dari Customer
+Project Scrap;Material Trading;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;;;;;100000;100000;;;2023-07-01;90;2023-09-28;4;Open;;
+Barata;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;;;Partnership;;1000000;1000000;;;2023-03-01;60;2023-04-30;3;Cancelled;Reschedule;Sales Plan dialihkan ke AM
+Maura Cipta Arta;Material Trading;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;;;;;50000;50000;;;2023-05-01;90;2023-07-29;4;Open;;
+MTCN;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;;Siemens Frame W501D5A;Repair Parts;;200000;200000;;;2023-01-01;60;2023-03-02;4;Cancelled;Reschedule;Sales Plan di Alihkan ke AM
+Vale Indonesia;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;DY;I;;;;;;;100000;100000;;;2023-10-01;90;2023-12-29;4;Open;;
+Wira Jasa Angkasa;Training;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;;;50000;50000;;;2023-12-01;15;2023-12-15;3;Open;;
+PTDI;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;;;Docking;;250000;250000;;;2023-08-01;150;2023-12-28;3;Open;;
+Pupuk Indonesia Energi;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;GE Frame 5;;GE Frame 5 - Combustion Inspection;;150000;150000;Canceled due to pricing issue;;2023-08-01;150;2023-12-29;4;Cancelled;Pricing;Canceled due to pricing issue - Pricing Above PJBS
+Pupuk Kalimantan Timur;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;;;Compressor dan LTSA Motor;;100000;100000;Menunggu proses pengadaan PKT;;2023-06-01;90;2023-08-30;3;Open;;
+Pupuk Kujang;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;DY;I;;;Hitachi;NA;Overhaul Generator;;233793;233793;Project Dimulai Agustus - Pembelian dan manufacture wedges agar segera diproses agar pada saat schedule TA tidak delay;;2023-08-01;21;2023-08-22;1;Closed - Sales;;
+Pupuk Petrokimia Gresik;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;;;GE Frame 6;;100000;100000;;;2023-06-01;90;2023-08-29;4;Open;;
+Pupuk Sriwijaya;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;NA;I;;;;;GE Frame 5;;82500;82500;Tim produksi tidak siap dalam melaksanakan Overhaul sehingga tentatif di mundurkan ke Agustus 2023;;2023-08-01;90;2023-10-30;2;Open;;
+Regional Express;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;200000;200000;;;2023-07-01;90;2023-09-28;4;Open;;
+RImbun Air;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;;;80000;80000;;;2023-06-01;15;2023-06-15;3;Open;;
+RImbun Air;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;;;80000;80000;;;2023-06-01;15;2023-06-15;3;Open;;
+RImbun Air;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;;;80000;80000;;;2023-06-01;15;2023-06-15;3;Open;;
+SAL;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;;;190000;190000;;;2023-06-01;15;2023-06-16;4;Open;;
+Seacon;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;A/C;T7-RTX;Inspection;;45000;45000;;;2023-01-16;7;2023-01-23;1;Closed - In;;
+Various;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;A/C;T7-888;Painting - ACAM;;100000;14056;;;2023-01-09;5;2023-01-14;1;Closed - In;;
+Semen Indonesia Group;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;DY;I;;;NA;NA;NA;;193103.45;193103;Re-schedule belum ada budget tahun ini;;2023-06-01;90;2023-08-30;4;Cancelled;Missed Plan;Re-schedule belum ada budget tahun ini
+Serba Dinamik Indonesia;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;;;Repair Parts;;75000;75000;;;2023-09-01;30;2023-09-30;4;Open;;
+Solomon Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AS;I;;;;;C-check;;150000;150000;;;2023-11-01;90;2024-01-29;4;Open;;
+Sulzer;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;DY;I;;;NA;NA;Penetrate Gas Turbin dan Area AouthEast Asia;;1123243;1123243;;;2023-10-01;365;2024-09-30;3;Cancelled;Internal Customer;Dilakukan Re-Team Up dengan Sulzer
+Taka;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;Frame 5;Tbd;Repair or coating Parts;;50000;10000;;;2023-12-01;60;2024-01-30;4;Open;;
+Torishima Guna Engineering;Industrial Solution;TMB Project;2023;NGA;Organic;;RKAP;;;;;HH;I;;;;;Repair Parts;;15000;55000;;;2023-10-16;60;2023-12-15;4;Open;;
+Viet Star;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;Painting;;260000;260000;;;2023-11-01;15;2023-11-15;4;Open;;
+WJA;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;;;200000;200000;;;2023-07-01;15;2023-07-15;4;Open;;
+WJA;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;;;200000;200000;;;2023-07-01;15;2023-07-15;4;Open;;
+WJA;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;;;200000;200000;;;2023-07-01;15;2023-07-15;4;Open;;
+WJA;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;;;200000;200000;;;2023-08-01;15;2023-08-15;4;Open;;
+WJA;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;;;200000;200000;;;2023-08-01;15;2023-08-15;4;Open;;
+WJA;Engineering;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;Carpet Replacement;;70000;70000;;;2023-09-01;15;2023-09-15;3;Open;;
+WJA;Engineering;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;Carpet Replacement;;70000;70000;;;2023-09-01;15;2023-09-15;3;Open;;
+WJA;Engineering;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;Carpet Replacement;;70000;70000;;;2023-10-01;15;2023-10-15;3;Open;;
+WJA;Engineering;TMB Project;2023;NGA;Organic;;RKAP;;;;;PN;I;;;;;Carpet Replacement;;70000;70000;;;2023-10-01;15;2023-10-15;3;Open;;
+Aero Capital Solution;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;TBD;TBD;C-Check;;200000;200000;;;2023-12-01;15;2023-12-16;4;Open;;
+AirAsia X;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A330;TBD;C-Check Light;;250000;250000;;;2023-06-01;9;2023-06-10;2;Cancelled;Internal Customer;Sent to other MRo
+AirAsia X;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;a330;tbd;C-Check Light;;250000;250000;;;2023-07-01;9;2023-07-10;2;Cancelled;Internal Customer;cancelled by AAX
+AirAsia X;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A330;TBD;Painting;;250000;150000;;;2023-08-01;18;2023-08-19;2;Open;;
+AirAsia X;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A330;9M-XBG;C-Check Light;;250000;250000;;;2023-12-18;26;2024-01-13;2;Open;;
+AirAsia X;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A330;tbd;C-Check Light;;250000;250000;;;2023-10-01;9;2023-10-10;2;Cancelled;Internal Customer;Cancelled by customer
+AirAsia X;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A330;9M-XXU;C-Check;;250000;350000;proposal review;;2023-03-25;26;2023-04-20;2;Open;;
+AirAsia X;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A330;9M-XBF;C-Check;;500000;400000;proposal review;;2023-11-12;26;2023-12-08;2;Open;;
+Airbus;Training;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;;;;;300000;300000;;;2023-12-01;15;2023-12-15;2;Open;;
+Airfast Indonesia;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;Aircraft;TBD;Parking & Escourting;;240000;240000;;;2023-03-01;365;2024-02-29;1;Cancelled;Internal Customer;Customer internal issue, cancelled the plan
+Airfast Indonesia;Component;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;Retail Component;;120000;120000;;;2023-05-01;365;2024-04-29;4;Open;;
+Airmark / My Indo / My Jet Xpress;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;;;250000;250000;;;2023-11-01;90;2024-01-29;4;Open;;
+Airmark / My Indo / My Jet Xpress;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;;;250000;250000;;;2023-11-01;90;2024-01-29;4;Open;;
+Airmark / My Indo / My Jet Xpress;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;;;250000;250000;;;2023-11-01;90;2024-01-29;4;Open;;
+All Nippon Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;TBA;TBA;C-Check;;250000;250000;;;2023-07-01;19;2023-07-20;4;Cancelled;Missed Plan;Miss Plan
+All Nippon Airways;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;NA;Various;Tech Handling;;29700;29700;;;2023-01-01;31;2023-02-01;1;Closed - Sales;;
+All Nippon Airways;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29700;29700;;;2023-02-01;28;2023-02-28;2;Open;;
+All Nippon Airways;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29700;29700;;;2023-03-01;31;2023-03-31;2;Open;;
+All Nippon Airways;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29700;29700;;;2023-04-01;30;2023-04-30;2;Open;;
+All Nippon Airways;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29700;29700;;;2023-05-01;31;2023-05-31;2;Open;;
+All Nippon Airways;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29700;29700;;;2023-06-01;30;2023-06-30;2;Open;;
+All Nippon Airways;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29700;29700;;;2023-07-01;31;2023-07-31;2;Open;;
+All Nippon Airways;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29700;29700;;;2023-08-01;31;2023-08-31;2;Open;;
+All Nippon Airways;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29700;29700;;;2023-09-01;30;2023-09-30;2;Open;;
+All Nippon Airways;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29700;29700;;;2023-10-01;31;2023-10-31;2;Open;;
+All Nippon Airways;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29700;29700;;;2023-11-01;30;2023-11-30;2;Open;;
+All Nippon Airways;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29700;29700;;;2023-12-01;31;2023-12-31;2;Open;;
+Asiana Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6600;6600;;;2023-01-01;31;2023-01-31;2;Open;;
+Asiana Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6600;6600;;;2023-02-01;28;2023-02-28;3;Open;;
+Asiana Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6600;6600;;;2023-03-01;31;2023-03-31;3;Open;;
+Asiana Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6600;6600;;;2023-04-01;30;2023-04-30;3;Open;;
+Asiana Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6600;6600;;;2023-05-01;31;2023-05-31;3;Open;;
+Asiana Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6600;6600;;;2023-06-01;30;2023-06-30;3;Open;;
+Asiana Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6600;6600;;;2023-07-01;31;2023-07-31;3;Open;;
+Asiana Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6600;6600;;;2023-08-01;31;2023-08-31;3;Open;;
+Asiana Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6600;6600;;;2023-09-01;30;2023-09-30;3;Open;;
+Asiana Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6600;6600;;;2023-10-01;31;2023-10-31;3;Open;;
+Asiana Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6600;6600;;;2023-11-01;30;2023-11-30;3;Open;;
+Asiana Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6600;6600;;;2023-12-01;31;2023-12-31;3;Open;;
+Aviation Fleet Support;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;;;Engine Repair;;500000;500000;;;2023-07-01;35;2023-08-04;2;Open;;
+Aviation Fleet Support;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;;;Engine Repair;;500000;500000;;;2023-10-01;35;2023-11-04;2;Open;;
+Bamboo Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;LEAP 1A;VN-A226;C01-Check Heavy;;60000;60000;;;2023-03-06;3;2023-03-09;3;Cancelled;Pricing;GMF Price 60%-70% higher compare to local MRO in Vietnam
+Bamboo Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;LEAP 1A;VN-A222;C01-Check;;60000;60000;;;2023-03-13;3;2023-03-16;3;Cancelled;Pricing;GMF Price 60%-70% higher compare to local MRO in Vietnam
+Bangkok Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;A320;HS-PGZ;C-Check Light;;100000;150000;Quotation Signed. HS-PGZ landing 12 Feb 2023 ( Start C-Check 15 Feb);;2023-02-15;12;2023-02-27;1;Closed - Sales;;
+Bangkok Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;;TBD;C-Check Light;;100000;100000;;;2023-09-01;9;2023-09-09;3;Open;;
+Batam Aero Technic;Component;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;Component Various;TBD;Retail Component;;75000;75000;;;2023-03-01;30;2023-03-31;4;Cancelled;Internal Customer;Customer reschedule maintenance plan
+Biman Bangladesh;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;TBD;TBD;C-Check Light;;100000;100000;;;2023-07-01;9;2023-07-10;3;Cancelled;Reschedule;reschedule
+Black Stone;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;Aircraft;TBD;A-Check;;75000;75000;;;2023-07-01;30;2023-07-31;1;Cancelled;Internal Customer;Customer internal issue
+Black Stone;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;Aircraft;TBD;A-Check;;75000;75000;;;2023-07-01;30;2023-07-31;1;Cancelled;Internal Customer;Internal Customer Invoice
+Black Stone;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;Aircraft;TBD;A-Check;;75000;75000;;;2023-07-01;30;2023-07-31;1;Cancelled;Internal Customer;Customer Internal Issue
+Black Stone;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;Aircraft;PK-XXX;C-check;;150000;150000;;;2023-02-01;30;2023-03-03;4;Cancelled;Missed Plan;Move to Area 1 - On Behalf Pak Yuki Kurniawan
+Black Stone;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;Aircraft;PK-XXX;C-check;;150000;150000;;;2023-02-01;30;2023-03-03;4;Cancelled;Missed Plan;Moved to area 1 - on behalf Pak Yuki Kurniawan
+Black Stone;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;Aircraft;PK-XXX;C-check;;150000;150000;;;2023-02-01;30;2023-03-03;4;Cancelled;Missed Plan;Moved to Area - On Behalf Pak Yuki Kurniawan
+Cambodia Airways;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;;TBD;C-Check Light;;100000;100000;;;2023-10-01;9;2023-10-09;3;Open;;
+Cargo Lux;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;1920;1920;;;2023-01-01;31;2023-01-31;3;Open;;
+Cargo Lux;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;1920;1920;;;2023-02-01;28;2023-02-28;3;Open;;
+Cargo Lux;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;1920;1920;;;2023-03-01;31;2023-03-31;3;Open;;
+Cargo Lux;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;1920;1920;;;2023-04-01;30;2023-04-30;3;Open;;
+Cargo Lux;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;1920;1920;;;2023-05-01;31;2023-05-31;3;Open;;
+Cargo Lux;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;1920;1920;;;2023-06-01;30;2023-06-30;3;Open;;
+Cargo Lux;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;1920;1920;;;2023-07-01;31;2023-07-31;3;Open;;
+Cargo Lux;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;1920;1920;;;2023-08-01;31;2023-08-31;3;Open;;
+Cargo Lux;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;1920;1920;;;2023-09-01;30;2023-09-30;3;Open;;
+Cargo Lux;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;1920;1920;;;2023-10-01;31;2023-10-31;3;Open;;
+Cargo Lux;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;1920;1920;;;2023-11-01;30;2023-11-30;3;Open;;
+Cargo Lux;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;1920;1920;;;2023-12-01;31;2023-12-31;3;Open;;
+Cebu Pacific;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;ATR72-500;RP-C7282;2YE+OOP+DE-ICER+WB;;250000;254600;closed in;;2023-01-07;17;2023-01-24;1;Closed - In;;
+Cebu Pacific;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;ATR72;RP-C7284;C-Check;;250000;257600;closed sales;;2023-03-26;30;2023-04-25;1;Closed - Sales;;
+Cebu Pacific;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A330;RP-C3348;C-Check Heavy;;500000;200000;;;2023-04-01;19;2023-04-20;2;Open;;
+Cebu Pacific;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A330;RP-C3348;C-Check;;500000;500000;;;2023-09-04;28;2023-10-02;2;Open;;
+Cebu Pacific;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A320;RP-C3275;C-Check;;500000;300000;;;2023-09-01;19;2023-09-20;2;Open;;
+Cebu Pacific;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;;;Medium Repair;;1000000;1000000;;;2023-07-01;60;2023-08-29;3;Open;;
+China Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;17498.4;17498;;;2023-01-01;31;2023-01-31;3;Open;;
+China Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;17498.4;17498;;;2023-02-01;28;2023-02-28;3;Open;;
+China Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;17498.4;17498;;;2023-03-01;31;2023-03-31;3;Open;;
+China Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;17498.4;17498;;;2023-04-01;30;2023-04-30;3;Open;;
+China Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;17498.4;17498;;;2023-05-01;31;2023-05-31;3;Open;;
+China Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;17498.4;17498;;;2023-06-01;30;2023-06-30;3;Open;;
+China Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;17498.4;17498;;;2023-07-01;31;2023-07-31;3;Open;;
+China Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;17498.4;17498;;;2023-08-01;31;2023-08-31;3;Open;;
+China Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;17498.4;17498;;;2023-09-01;30;2023-09-30;3;Open;;
+China Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;17498.4;17498;;;2023-10-01;31;2023-10-31;3;Open;;
+China Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;17498.4;17498;;;2023-11-01;30;2023-11-30;3;Open;;
+China Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;17498.4;17498;;;2023-12-01;31;2023-12-31;3;Open;;
+China Eastern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;4800;4800;;;2023-01-01;31;2023-01-31;3;Open;;
+China Eastern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;4800;4800;;;2023-02-01;28;2023-02-28;3;Open;;
+China Eastern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;4800;4800;;;2023-03-01;31;2023-03-31;3;Open;;
+China Eastern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;4800;4800;;;2023-04-01;30;2023-04-30;3;Open;;
+China Eastern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;4800;4800;;;2023-05-01;31;2023-05-31;3;Open;;
+China Eastern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;4800;4800;;;2023-06-01;30;2023-06-30;3;Open;;
+China Eastern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;4800;4800;;;2023-07-01;31;2023-07-31;3;Open;;
+China Eastern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;4800;4800;;;2023-08-01;31;2023-08-31;3;Open;;
+China Eastern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;4800;4800;;;2023-09-01;30;2023-09-30;3;Open;;
+China Eastern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;4800;4800;;;2023-10-01;31;2023-10-31;3;Open;;
+China Eastern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;4800;4800;;;2023-11-01;30;2023-11-30;3;Open;;
+China Eastern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;4800;4800;;;2023-12-01;31;2023-12-31;3;Open;;
+China Southern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;864;864;;;2023-01-01;31;2023-01-31;3;Open;;
+China Southern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;864;864;;;2023-02-01;28;2023-02-28;3;Open;;
+China Southern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;864;864;;;2023-03-01;31;2023-03-31;3;Open;;
+China Southern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;864;864;;;2023-04-01;30;2023-04-30;3;Open;;
+China Southern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;864;864;;;2023-05-01;31;2023-05-31;3;Open;;
+China Southern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;864;864;;;2023-06-01;30;2023-06-30;3;Open;;
+China Southern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;864;864;;;2023-07-01;31;2023-07-31;3;Open;;
+China Southern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;864;864;;;2023-08-01;31;2023-08-31;3;Open;;
+China Southern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;864;864;;;2023-09-01;30;2023-09-30;3;Open;;
+China Southern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;864;864;;;2023-10-01;31;2023-10-31;3;Open;;
+China Southern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;864;864;;;2023-11-01;30;2023-11-30;3;Open;;
+China Southern;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;864;864;;;2023-12-01;31;2023-12-31;3;Open;;
+Ethiopian;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;3165.52;3166;;;2023-01-01;31;2023-01-31;3;Open;;
+Ethiopian;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;3165.52;3166;;;2023-02-01;28;2023-02-28;3;Open;;
+Ethiopian;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;3165.52;3166;;;2023-03-01;31;2023-03-31;3;Open;;
+Ethiopian;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;3165.52;3166;;;2023-04-01;30;2023-04-30;3;Open;;
+Ethiopian;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;3165.52;3166;;;2023-05-01;31;2023-05-31;3;Open;;
+Ethiopian;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;3165.52;3166;;;2023-06-01;30;2023-06-30;3;Open;;
+Ethiopian;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;3165.52;3166;;;2023-07-01;31;2023-07-31;3;Open;;
+Ethiopian;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;3165.52;3166;;;2023-08-01;31;2023-08-31;3;Open;;
+Ethiopian;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;3165.52;3166;;;2023-09-01;30;2023-09-30;3;Open;;
+Ethiopian;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;3165.52;3166;;;2023-10-01;31;2023-10-31;3;Open;;
+Ethiopian;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;3165.52;3166;;;2023-11-01;30;2023-11-30;3;Open;;
+Ethiopian;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;3165.52;3166;;;2023-12-01;31;2023-12-31;3;Open;;
+FL Technics/ Avia Technic Dirgantara;Component;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;Retail Component;;180000;180000;;;2023-05-01;365;2024-04-29;3;Open;;
+Gainjet;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;;C-Check;;250000;250000;;;2023-12-01;19;2023-12-17;3;Open;;
+Gainjet;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;;C-Check;;250000;250000;;;2023-10-01;19;2023-10-17;3;Open;;
+Gainjet;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;18600;18600;;;2023-01-01;31;2023-01-31;3;Open;;
+Gainjet;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;18600;18600;;;2023-02-01;28;2023-02-28;3;Open;;
+Gainjet;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;18600;18600;;;2023-03-01;31;2023-03-31;3;Open;;
+Gainjet;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;18600;18600;;;2023-04-01;30;2023-04-30;3;Open;;
+Gainjet;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;18600;18600;;;2023-05-01;31;2023-05-31;3;Open;;
+Gainjet;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;18600;18600;;;2023-06-01;30;2023-06-30;3;Open;;
+Gainjet;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;18600;18600;;;2023-07-01;31;2023-07-31;3;Open;;
+Gainjet;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;18600;18600;;;2023-08-01;31;2023-08-31;3;Open;;
+Gainjet;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;18600;18600;;;2023-09-01;30;2023-09-30;3;Open;;
+Gainjet;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;18600;18600;;;2023-10-01;31;2023-10-31;3;Open;;
+Gainjet;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;18600;18600;;;2023-11-01;30;2023-11-30;3;Open;;
+Gainjet;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;18600;18600;;;2023-12-01;31;2023-12-31;3;Open;;
+Geosky;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;;;C-Check Heavy + Painting;;1000000;1000000;;;2023-06-01;40;2023-07-10;2;Open;;
+Geosky;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;;;C-Check Heavy + Painting;;1000000;1000000;;;2023-09-01;40;2023-10-10;2;Open;;
+Global Aviation Consultancy;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CF6-50;MSN;Bridging Check;;1000000;1000000;;;2023-05-01;40;2023-06-10;2;Cancelled;Capacity Capability;Slot not available
+Global Aviation Consultancy;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;TS;II;;;CF6-50;EX-3002;C-Check;;200000;200000;;;2023-02-07;21;2023-02-28;2;Cancelled;Missed Plan;double
+Global Aviation Consultancy;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CF6-50;EX-47002;C-Check;;200000;200000;;;2023-03-01;25;2023-03-26;2;Cancelled;Capacity Capability;Slot not available
+IndiGo;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;TBD;TBD;Light Check;;100000;100000;;;2023-02-01;9;2023-02-10;3;Cancelled;Internal Customer;Light Check will be performed inhouse at India
+IndiGo;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;;;Light Check;;100000;100000;;;2023-05-01;9;2023-02-10;3;Open;;
+IndiGo;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;A320 Neo;VT-ITX;3C/6YR Check;;100000;264000;;;2023-05-10;25;2023-06-04;1;Closed - Sales;;
+IndiGo;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;;;Light Check;;100000;100000;;;2023-06-01;9;2023-04-10;3;Open;;
+IndiGo;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;;;Light Check;;100000;100000;;;2023-05-01;9;2023-05-10;3;Open;;
+IndiGo;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;;;Light Check;;100000;100000;;;2023-06-01;9;2023-06-10;3;Open;;
+IndiGo;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;A320 Neo;VT-ITR;3C/6YR Check;;100000;264000;;;2023-02-06;25;2023-03-03;1;Closed - In;;
+IndiGo;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;TBD;TBD;Light Check;;100000;100000;;;2023-03-01;9;2023-03-10;3;Cancelled;Internal Customer;Light Check will be performed inhouse at India
+IndiGo;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;;;Light Check;;100000;100000;;;2023-05-01;9;2023-05-10;3;Open;;
+IndiGo;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;;;Light Check;;100000;100000;;;2023-06-01;9;2023-06-10;3;Open;;
+IndiGo;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;TBD;TBD;Redelivery;;1000000;1000000;;;2023-02-01;60;2023-04-02;3;Cancelled;Internal Customer;Re-Schedule to 2024
+IndiGo;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;TBD;TBD;Redelivery;;1000000;1000000;;;2023-04-01;60;2023-05-31;3;Cancelled;Internal Customer;Re-Schedule to 2024
+Indonesia AirAsia;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A320;PK-AXR;C-Check Light;;200000;200000;;;2023-03-01;22;2023-03-23;2;Cancelled;Internal Customer;duplicate
+Indonesia AirAsia;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A320;PK-AZJ;C06+12 Yr;;200000;200000;;;2023-05-08;20;2023-05-28;2;Cancelled;Internal Customer;duplicate
+Indonesia AirAsia;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A320;PK-AZJ;C-Check Light;;200000;200000;Proposal review;;2023-05-08;20;2023-05-28;2;Open;;
+Indonesia AirAsia;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A320;PK-AXV;C-Check;;200000;200000;proposal review;;2023-08-18;22;2023-09-09;2;Open;;
+Indonesia AirAsia;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A320;Tbd;C-Check Light;;200000;200000;;;2023-07-01;15;2023-07-16;2;Cancelled;Internal Customer;reschedule
+Indonesia AirAsia;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A320;PK-AXR;C09+6Yr check;;200000;200000;waiting for proposal review;;2023-03-16;19;2023-04-04;2;Open;;
+Thai AirAsia X;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A330;HS-XTI;C-Check;;275000;275000;;;2023-10-16;19;2023-11-04;2;Open;;
+Indonesia AirAsia;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;;;Medium Repair;;1000000;1000000;;;2023-05-01;60;2023-06-29;3;Open;;
+Indonesia AirAsia;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;CFM56-5;6458888;Top Case Repair;;100000;1000000;waiting engine workscoping and proposal;;2023-12-05;40;2024-01-14;3;Open;;
+Indonesia AirAsia;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;GTCP131-9A;TBD;APU Overhaul;;300000;300000;waiting for APU shop visit schedule from IAA;;2023-08-15;30;2023-09-14;2;Open;;
+Indonesia AirAsia;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;;;APU Overhaul;;300000;300000;;;2023-04-01;30;2023-04-30;2;Open;;
+Indonesia AirAsia;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;;;APU Overhaul;;300000;300000;;;2023-09-01;30;2023-09-30;2;Open;;
+Indonesia AirAsia;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;;;APU Overhaul;;300000;300000;;;2023-10-01;30;2023-10-30;2;Open;;
+Japan Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9600;9600;;;2023-01-01;31;2023-01-31;3;Open;;
+Japan Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9600;9600;;;2023-02-01;28;2023-02-28;3;Open;;
+Japan Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9600;9600;;;2023-03-01;31;2023-03-31;3;Open;;
+Japan Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9600;9600;;;2023-04-01;30;2023-04-30;3;Open;;
+Japan Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9600;9600;;;2023-05-01;31;2023-05-31;3;Open;;
+Japan Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9600;9600;;;2023-06-01;30;2023-06-30;3;Open;;
+Japan Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9600;9600;;;2023-07-01;31;2023-07-31;3;Open;;
+Japan Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9600;9600;;;2023-08-01;31;2023-08-31;3;Open;;
+Japan Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9600;9600;;;2023-09-01;30;2023-09-30;3;Open;;
+Japan Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9600;9600;;;2023-10-01;31;2023-10-31;3;Open;;
+Japan Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9600;9600;;;2023-11-01;30;2023-11-30;3;Open;;
+Japan Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9600;9600;;;2023-12-01;31;2023-12-31;3;Open;;
+Jeju Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;b737-800;TBD;C-Check;;250000;250000;;;2023-01-01;19;2023-01-20;3;Cancelled;Pricing;Sent to other MRO
+Jeju Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;B738;TBD;C-Check;;250000;250000;;;2023-12-01;19;2023-12-20;3;Cancelled;Internal Customer;Sent to other MRO (OEM)
+Jetstar Pacific;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;;TBD;C-Check Heavy;;250000;250000;;;2023-12-01;19;2023-12-19;3;Open;;
+Kam Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;B737-300;YA-KMC;C-Check Light;;250000;100000;need price evaluation from TJP;;2023-04-01;30;2023-05-01;2;Open;;
+Kam Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;;;C-Check Light;;100000;100000;;;2023-08-01;9;2023-08-09;3;Open;;
+Kam Air;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;857605;857605;Overhaul;;700000;700000;"menunggu cogs
+revisi schedule karena ada revisi workscope";;2023-06-01;90;2023-08-30;3;Open;;
+Kam Air;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;CFM56-3;724454;Overhaul;;700000;700000;"wait cogs
+revisi schedule karena ada revisi workscope";;2023-06-01;90;2023-08-30;3;Open;;
+Kam Air;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;CFM56-3C1;722317;Overhaul;;700000;700000;waiting COGS from TV;;2023-12-01;45;2024-01-15;3;Open;;
+KLM Royal Dutch;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;15600;15600;;;2023-01-01;31;2023-01-31;3;Open;;
+KLM Royal Dutch;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;15600;15600;;;2023-02-01;28;2023-02-28;3;Open;;
+KLM Royal Dutch;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;15600;15600;;;2023-03-01;31;2023-03-31;3;Open;;
+KLM Royal Dutch;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;15600;15600;;;2023-04-01;30;2023-04-30;3;Open;;
+KLM Royal Dutch;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;15600;15600;;;2023-05-01;31;2023-05-31;3;Open;;
+KLM Royal Dutch;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;15600;15600;;;2023-06-01;30;2023-06-30;3;Open;;
+KLM Royal Dutch;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;15600;15600;;;2023-07-01;31;2023-07-31;3;Open;;
+KLM Royal Dutch;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;15600;15600;;;2023-08-01;31;2023-08-31;3;Open;;
+KLM Royal Dutch;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;15600;15600;;;2023-09-01;30;2023-09-30;3;Open;;
+KLM Royal Dutch;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;15600;15600;;;2023-10-01;31;2023-10-31;3;Open;;
+KLM Royal Dutch;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;15600;15600;;;2023-11-01;30;2023-11-30;3;Open;;
+KLM Royal Dutch;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;15600;15600;;;2023-12-01;31;2023-12-31;3;Open;;
+Korean Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;tba;TBA;C-Check;;250000;250000;;;2023-02-01;19;2023-02-20;3;Cancelled;Missed Plan;Missplan
+Korean Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;TBA;TBA;C-Check;;250000;250000;;;2023-04-01;19;2023-04-20;3;Cancelled;Missed Plan;Missplan
+Korean Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;12720;12720;;;2023-01-01;31;2023-01-31;3;Open;;
+Korean Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;12720;12720;;;2023-02-01;28;2023-02-28;3;Open;;
+Korean Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;12720;12720;;;2023-03-01;31;2023-03-31;3;Open;;
+Korean Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;12720;12720;;;2023-04-01;30;2023-04-30;3;Open;;
+Korean Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;12720;12720;;;2023-05-01;31;2023-05-31;3;Open;;
+Korean Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;12720;12720;;;2023-06-01;30;2023-06-30;3;Open;;
+Korean Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;12720;12720;;;2023-07-01;31;2023-07-31;3;Open;;
+Korean Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;12720;12720;;;2023-08-01;31;2023-08-31;3;Open;;
+Korean Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;12720;12720;;;2023-09-01;30;2023-09-30;3;Open;;
+Korean Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;12720;12720;;;2023-10-01;31;2023-10-31;3;Open;;
+Korean Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;12720;12720;;;2023-11-01;30;2023-11-30;3;Open;;
+Korean Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;12720;12720;;;2023-12-01;31;2023-12-31;3;Open;;
+Malaysian Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29260;29260;;;2023-01-01;31;2023-01-31;2;Open;;
+Malaysian Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29260;29260;;;2023-02-01;28;2023-02-28;2;Open;;
+Malaysian Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29260;29260;;;2023-03-01;31;2023-03-31;2;Open;;
+Malaysian Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29260;29260;;;2023-04-01;30;2023-04-30;2;Open;;
+Malaysian Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29260;29260;;;2023-05-01;31;2023-05-31;2;Open;;
+Malaysian Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29260;29260;;;2023-06-01;30;2023-06-30;2;Open;;
+Malaysian Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29260;29260;;;2023-07-01;31;2023-07-31;2;Open;;
+Malaysian Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29260;29260;;;2023-08-01;31;2023-08-31;2;Open;;
+Malaysian Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29260;29260;;;2023-09-01;30;2023-09-30;2;Open;;
+Malaysian Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29260;29260;;;2023-10-01;31;2023-10-31;2;Open;;
+Malaysian Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29260;29260;;;2023-11-01;30;2023-11-30;2;Open;;
+Malaysian Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;29260;29260;;;2023-12-01;31;2023-12-31;2;Open;;
+Muladatu;Component;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;Plating;;90000;90000;;;2023-05-01;90;2023-07-29;3;Open;;
+My Indo Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;Aircraft;TBD;C-check;;150000;150000;;;2023-03-01;30;2023-03-31;4;Cancelled;Internal Customer;Customer reschedule internal progress
+My Indo Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;TBD;TBD;C-check;;150000;150000;;;2023-03-01;30;2023-03-31;4;Cancelled;Internal Customer;Customer re-schedule for internal issue
+My Indo Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;Aircraft;TBD;C-check;;150000;150000;;;2023-06-01;30;2023-07-01;4;Cancelled;Internal Customer;Customer Internal Issue
+My Indo Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;Aircraft;TBD;C-check;;150000;150000;;;2023-06-01;30;2023-07-01;4;Cancelled;Internal Customer;Customer internal issue
+My Indo Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;Aircraft;TBD;C-check;;150000;150000;;;2023-06-01;30;2023-07-01;4;Cancelled;Internal Customer;Customer Internal Issue
+Myanmar Airways International;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;;;C-Check Heavy;;250000;250000;;;2023-05-01;19;2023-05-19;3;Open;;
+Myanmar Airways International;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;;;C-Check Heavy;;250000;250000;;;2023-10-01;19;2023-10-19;3;Open;;
+Nepal Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;A320;TBD;C-Check Light;;100000;100000;;;2023-07-01;9;2023-07-10;4;Open;;
+Other Domestic  Retail - Training;Training;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;;;;;65000;65000;;;2023-12-01;15;2023-12-15;3;Open;;
+Pakistan Int. Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;;;C-Check;;250000;250000;;;2023-12-01;19;2023-09-17;4;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-01-01;1;2023-01-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-02-01;1;2023-02-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-03-01;1;2023-03-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-04-01;1;2023-04-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-05-01;1;2023-05-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-06-01;1;2023-06-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-07-01;1;2023-07-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-08-01;1;2023-08-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-09-01;1;2023-09-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-10-01;1;2023-10-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-11-01;1;2023-11-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-12-01;1;2023-12-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-01-01;1;2023-01-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-02-01;1;2023-02-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-03-01;1;2023-03-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-04-01;1;2023-04-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-05-01;1;2023-05-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-06-01;1;2023-06-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-07-01;1;2023-07-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-08-01;1;2023-08-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-09-01;1;2023-09-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-10-01;1;2023-10-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-11-01;1;2023-11-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-12-01;1;2023-12-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-01-01;1;2023-01-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-02-01;1;2023-02-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-03-01;1;2023-03-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-04-01;1;2023-04-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-05-01;1;2023-05-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-06-01;1;2023-06-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-07-01;1;2023-07-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-08-01;1;2023-08-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-09-01;1;2023-09-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-10-01;1;2023-10-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-11-01;1;2023-11-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-12-01;1;2023-12-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-01-01;1;2023-01-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-02-01;1;2023-02-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-03-01;1;2023-03-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-04-01;1;2023-04-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-05-01;1;2023-05-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-06-01;1;2023-06-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-07-01;1;2023-07-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-08-01;1;2023-08-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-09-01;1;2023-09-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-10-01;1;2023-10-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-11-01;1;2023-11-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-12-01;1;2023-12-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-01-01;1;2023-01-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-02-01;1;2023-02-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-03-01;1;2023-03-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-04-01;1;2023-04-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-05-01;1;2023-05-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-06-01;1;2023-06-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-07-01;1;2023-07-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-08-01;1;2023-08-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-09-01;1;2023-09-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-10-01;1;2023-10-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-11-01;1;2023-11-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-12-01;1;2023-12-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-01-01;1;2023-01-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-02-01;1;2023-02-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-03-01;1;2023-03-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-04-01;1;2023-04-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-05-01;1;2023-05-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-06-01;1;2023-06-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-07-01;1;2023-07-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-08-01;1;2023-08-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-09-01;1;2023-09-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-10-01;1;2023-10-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-11-01;1;2023-11-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-12-01;1;2023-12-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-01-01;1;2023-01-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-02-01;1;2023-02-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-03-01;1;2023-03-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-04-01;1;2023-04-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-05-01;1;2023-05-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-06-01;1;2023-06-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-07-01;1;2023-07-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-08-01;1;2023-08-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-09-01;1;2023-09-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-10-01;1;2023-10-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-11-01;1;2023-11-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-12-01;1;2023-12-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-01-01;1;2023-01-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-02-01;1;2023-02-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-03-01;1;2023-03-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-04-01;1;2023-04-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-05-01;1;2023-05-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-06-01;1;2023-06-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-07-01;1;2023-07-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-08-01;1;2023-08-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-09-01;1;2023-09-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-10-01;1;2023-10-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-11-01;1;2023-11-01;2;Open;;
+Pelita Air Service;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;;;A-Check;;33333.33;33333;;;2023-12-01;1;2023-12-01;2;Open;;
+Qantas;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;7200;7200;;;2023-01-01;31;2023-01-31;3;Open;;
+Qantas;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;7200;7200;;;2023-02-01;28;2023-02-28;3;Open;;
+Qantas;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;7200;7200;;;2023-03-01;31;2023-03-31;3;Open;;
+Qantas;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;7200;7200;;;2023-04-01;30;2023-04-30;3;Open;;
+Qantas;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;7200;7200;;;2023-05-01;31;2023-05-31;3;Open;;
+Qantas;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;7200;7200;;;2023-06-01;30;2023-06-30;3;Open;;
+Qantas;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;7200;7200;;;2023-07-01;31;2023-07-31;3;Open;;
+Qantas;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;7200;7200;;;2023-08-01;31;2023-08-31;3;Open;;
+Qantas;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;7200;7200;;;2023-09-01;30;2023-09-30;3;Open;;
+Qantas;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;7200;7200;;;2023-10-01;31;2023-10-31;3;Open;;
+Qantas;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;7200;7200;;;2023-11-01;30;2023-11-30;3;Open;;
+Qantas;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;7200;7200;;;2023-12-01;31;2023-12-31;3;Open;;
+Serene Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;TBD;TBD;C-Check;;200000;200000;;;2023-07-01;15;2023-07-16;4;Open;;
+Silk Way;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;;;Painting;;400000;400000;;;2023-07-30;15;2023-08-13;3;Open;;
+Silk Way;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;;;Painting;;400000;400000;;;2023-08-18;15;2023-09-01;3;Open;;
+Silk Way;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;;;Painting;;400000;400000;;;2023-09-06;15;2023-09-20;3;Open;;
+Silk Way;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;;;Painting;;400000;400000;;;2023-09-25;15;2023-10-09;3;Open;;
+Silk Way;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;;;Painting;;400000;400000;;;2023-10-14;15;2023-10-28;3;Open;;
+Silk Way;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;;;Painting;;400000;400000;;;2023-11-02;15;2023-11-16;3;Open;;
+Silk Way;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;DR;II;;;;;Painting;;400000;400000;;;2023-11-21;15;2023-12-05;3;Open;;
+Sky Angkor Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;;;C-Check Light;;100000;100000;;;2023-07-01;9;2023-07-09;3;Open;;
+Thai AirAsia X;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A330 Neo;HS-XJB;C-Check;;250000;200000;;;2023-05-02;18;2023-05-20;2;Open;;
+Thai AirAsia X;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;A330 Neo;HS-XJA;C-Check Light;;250000;200000;;;2023-07-03;14;2023-07-17;2;Open;;
+TransNusa Aviation Mandiri;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;;;C-check;;150000;150000;;;2023-11-01;30;2023-11-30;3;Open;;
+TransNusa Aviation Mandiri;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;;;C-check;;150000;150000;;;2023-05-11;30;2023-06-10;3;Open;;
+TransNusa Aviation Mandiri;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;;;C-check;;150000;150000;;;2023-08-15;30;2023-09-14;3;Open;;
+Travira Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;CB;II;;;Aircraft;TBD;C-check;;150000;150000;;;2023-06-01;30;2023-07-01;3;Cancelled;Internal Customer;Customer Internal Issue
+Black Stone Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;;;Remove Engine;;15000;15000;;;2023-03-06;30;2023-04-05;1;Closed - In;;
+Asian Corporate Aviation Management Ple Ltd;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;Gulfstream 450;T7-977;Painting;;150000;170000;;;2023-03-05;18;2023-03-23;1;Closed - Sales;;
+TriMG / Aero Asia Network / Cargo Asian Network;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;;;C-check;;150000;150000;;;2023-06-01;30;2023-07-01;3;Open;;
+TriMG / Aero Asia Network / Cargo Asian Network;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;;;C-check;;150000;150000;;;2023-09-01;30;2023-10-01;3;Open;;
+TriMG / Aero Asia Network / Cargo Asian Network;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;;;C-check;;150000;150000;;;2023-07-02;30;2023-08-01;3;Open;;
+TriMG / Aero Asia Network / Cargo Asian Network;Engineering;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;;;Routine;;14000;14000;;;2023-06-01;20;2023-06-20;2;Open;;
+TriMG / Aero Asia Network / Cargo Asian Network;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;;;;;250000;250000;;;2023-10-01;90;2023-12-29;3;Open;;
+TriMG / Aero Asia Network / Cargo Asian Network;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;;;;;250000;250000;;;2023-10-01;90;2023-12-29;3;Open;;
+TriMG / Aero Asia Network / Cargo Asian Network;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;;;;;250000;250000;;;2023-10-01;90;2023-12-29;4;Open;;
+TriMG / Aero Asia Network / Cargo Asian Network;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;YK;I;;;;;;;250000;250000;;;2023-10-01;90;2023-12-29;4;Open;;
+Turkish Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9900;9900;;;2023-01-01;31;2023-01-31;2;Open;;
+Turkish Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9900;9900;;;2023-02-01;28;2023-02-28;2;Open;;
+Turkish Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9900;9900;;;2023-03-01;31;2023-03-31;2;Open;;
+Turkish Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9900;9900;;;2023-04-01;30;2023-04-30;2;Open;;
+Turkish Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9900;9900;;;2023-05-01;31;2023-05-31;2;Open;;
+Turkish Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9900;9900;;;2023-06-01;30;2023-06-30;2;Open;;
+Turkish Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9900;9900;;;2023-07-01;31;2023-07-31;2;Open;;
+Turkish Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9900;9900;;;2023-08-01;31;2023-08-31;2;Open;;
+Turkish Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9900;9900;;;2023-09-01;30;2023-09-30;2;Open;;
+Turkish Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9900;9900;;;2023-10-01;31;2023-10-31;2;Open;;
+Turkish Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9900;9900;;;2023-11-01;30;2023-11-30;2;Open;;
+Turkish Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;9900;9900;;;2023-12-01;31;2023-12-31;2;Open;;
+T'Way;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;B738;HL-8268;EOL;;250000;150000;;;2023-03-13;19;2023-04-01;3;Open;;
+US-Bangla;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;;;C-Check Heavy;;200000;200000;;;2023-11-01;15;2023-11-15;4;Open;;
+Vietjet Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CFM56-5B;VN-A633;6 Years Check;;250000;250000;;;2023-03-03;30;2023-04-02;2;Open;;
+Vietjet Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CFM56-5B;VN-A635;6 Years Check;;250000;250000;;;2023-04-03;30;2023-05-03;2;Open;;
+Vietjet Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CFM56-5B;VN-A634;6 Years Check;;250000;250000;;;2023-05-03;30;2023-06-02;2;Open;;
+Vietjet Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CFM56-5;VN-A641;6 Years Check;;250000;250000;;;2023-05-30;19;2023-06-18;2;Cancelled;Capacity Capability;Customer try only 1 bay nose to tail, if ok then continue 2 bay parallel
+Vietjet Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CFM56-5B;VN-A644;6 Years Check;;250000;250000;;;2023-06-02;30;2023-07-02;2;Open;;
+Vietjet Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CFM56-5;VN-A639;6 Years Check;;250000;250000;;;2023-08-10;30;2023-09-09;2;Open;;
+Vietjet Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CFM56-5B;VN-A643;6 Years Check;;250000;250000;;;2023-09-04;30;2023-10-04;2;Open;;
+Vietjet Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CFM56-5B;VN-A648;6 Years Check;;250000;250000;;;2023-10-02;30;2023-11-01;2;Open;;
+Vietjet Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CFM56-5B;VN-A647;6 Years Check;;250000;250000;;;2023-10-08;30;2023-11-07;3;Open;;
+Vietjet Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CFM56-5B;VN-A647;6 Years Check;;250000;250000;;;2023-11-24;30;2023-12-24;4;Open;;
+Vietjet Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CFM56-5B;VN-A632;6 Years Check;;250000;250000;;;2023-12-01;30;2023-12-31;4;Open;;
+Vietjet Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CFM56-5B;VN-A644;6 Years Check;;250000;250000;;;2023-12-05;19;2023-12-24;4;Cancelled;Capacity Capability;VJC request TAT 21 days, GMF offer 30 days
+Vietjet Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CFM56-5B;VN-A636;6 Years Check;;250000;250000;;;2023-12-07;19;2023-12-26;4;Cancelled;Capacity Capability;VJC requirement TAT 21 days, GMF offer 30 days
+Vietjet Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CFM56-5B;VN-A637;6 Years Check;;250000;250000;;;2023-12-15;19;2024-01-03;4;Cancelled;Capacity Capability;VJC requirement 21 days, GMF offer 30 days
+Vietjet Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CFM56-5B;VN-A639;6 Years Check;;250000;250000;;;2023-12-20;19;2024-01-08;2;Cancelled;Capacity Capability;VJC requirement 21days, GMF offer 30 days
+Vietjet Air;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;TS;II;;;CFM56-5B;VN-A646;6 Years Check;;250000;250000;;;2023-12-29;19;2024-01-17;4;Cancelled;Capacity Capability;VJC requirment 21 days, GMF offer 30 days
+Vietjet Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6123.6;6124;;;2023-01-01;31;2023-01-31;3;Open;;
+Vietjet Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6123.6;6124;;;2023-02-01;28;2023-02-28;3;Open;;
+Vietjet Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6123.6;6124;;;2023-03-01;31;2023-03-31;3;Open;;
+Vietjet Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6123.6;6124;;;2023-04-01;30;2023-04-30;3;Open;;
+Vietjet Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6123.6;6124;;;2023-05-01;31;2023-05-31;3;Open;;
+Vietjet Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6123.6;6124;;;2023-06-01;30;2023-06-30;3;Open;;
+Vietjet Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6123.6;6124;;;2023-07-01;31;2023-07-31;3;Open;;
+Vietjet Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6123.6;6124;;;2023-08-01;31;2023-08-31;3;Open;;
+Vietjet Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6123.6;6124;;;2023-09-01;30;2023-09-30;3;Open;;
+Vietjet Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6123.6;6124;;;2023-10-01;31;2023-10-31;3;Open;;
+Vietjet Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6123.6;6124;;;2023-11-01;30;2023-11-30;3;Open;;
+Vietjet Air;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;6123.6;6124;;;2023-12-01;31;2023-12-31;3;Open;;
+Vietnam Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;;;C-Check Heavy;;1000000;1000000;;;2023-08-01;60;2023-09-29;3;Open;;
+Virgin;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;34616.06;34616;;;2023-01-01;31;2023-01-31;3;Open;;
+Virgin;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;34616.06;34616;;;2023-02-01;28;2023-02-28;3;Open;;
+Virgin;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;34616.06;34616;;;2023-03-01;31;2023-03-31;3;Open;;
+Virgin;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;34616.06;34616;;;2023-05-01;31;2023-05-31;3;Open;;
+Virgin;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;34616.06;34616;;;2023-06-01;30;2023-06-30;3;Open;;
+Virgin;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;34616.06;34616;;;2023-07-01;31;2023-07-31;3;Open;;
+Virgin;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;34616.06;34616;;;2023-08-01;31;2023-08-31;3;Open;;
+Virgin;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;34616.06;34616;;;2023-09-01;30;2023-09-30;3;Open;;
+Virgin;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;34616.06;34616;;;2023-10-01;31;2023-10-31;3;Open;;
+Virgin;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;34616.06;34616;;;2023-11-01;30;2023-11-30;3;Open;;
+Virgin;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;34616.06;34616;;;2023-12-01;31;2023-12-31;3;Open;;
+VIV International;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;CFM56-3;857xxx;Engine Repair;;500000;500000;waiting workscope;;2023-06-30;35;2023-08-04;2;Open;;
+Xiamen Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;792;792;;;2023-01-01;31;2023-01-31;3;Open;;
+Xiamen Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;792;792;;;2023-02-01;28;2023-02-28;3;Open;;
+Xiamen Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;792;792;;;2023-03-01;31;2023-03-31;3;Open;;
+Xiamen Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;792;792;;;2023-04-01;30;2023-04-30;3;Open;;
+Xiamen Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;792;792;;;2023-05-01;31;2023-05-31;3;Open;;
+Xiamen Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;792;792;;;2023-06-01;30;2023-06-30;3;Open;;
+Xiamen Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;792;792;;;2023-07-01;31;2023-07-31;3;Open;;
+Xiamen Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;792;792;;;2023-08-01;31;2023-08-31;3;Open;;
+Xiamen Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;792;792;;;2023-09-01;30;2023-09-30;3;Open;;
+Xiamen Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;792;792;;;2023-10-01;31;2023-10-31;3;Open;;
+Xiamen Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;792;792;;;2023-11-01;30;2023-11-30;3;Open;;
+Xiamen Airlines;Line;TMB Project;2023;NGA;Organic;;RKAP;;;;;AR;II;;;;Various;Tech Handling;;792;792;;;2023-12-01;31;2023-12-31;3;Open;;
+Young Aviation;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;engine cfm56-3;721607;Engine Repair;;500000;500000;menunggu esn 860222 selesai;;2023-06-30;90;2023-09-28;2;Open;;
+Young Aviation;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;SS;II;;;;;Engine Repair;;500000;500000;;;2023-05-01;35;2023-06-04;2;Open;;
+Aeroeagle;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;JT;III;;;CFM56-3;TBD;Performance restoration;;1000000;1000000;TBD;;2023-09-01;90;2023-11-30;3;Open;;
+Aerotranscargo;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AK;III;;;;ER-BBJ;;;700000;700000;;;2023-05-04;30;2023-06-03;1;Open;;
+Aerotranscargo;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AK;III;;;;TBA1;;;500000;500000;;;2023-06-01;30;2023-07-01;4;Open;;
+Aerotranscargo;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AK;III;;;;TBA2;;;500000;500000;;;2023-09-01;30;2023-10-01;4;Open;;
+Aerotranscargo;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AK;III;;;B747-400;ER-JAI;C-Check;;700000;700000;induction date 27 Februari 2023;;2023-02-28;33;2023-04-02;1;Closed - In;;
+Aerotranscargo;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AK;III;;;B747-400;ER-BBC;C-CHECK;;500000;700000;;;2023-01-10;40;2023-02-19;1;Closed - In;;
+Air Atlanta Icelandic;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;JD;III;;;B747-400;TF-AMB;C1, C3, D1, A1,2,3,4 and 18 mts check, clearing AD notes and more.;;800000;800000;;;2023-07-10;30;2023-08-09;1;Open;;
+Air Atlanta Icelandic;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;JD;III;;;B747-400;TF-AMB;C1, C3, D1, A1, A2, A3, A4 and 18 mts check, clearing AD notes and more.;;800000;800000;;;2023-07-10;30;2023-08-09;1;Cancelled;Missed Plan;Double input
+Air Atlanta Icelandic;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;JD;III;;;B747-400;TF-AMJ;C1, A1, A2, A3, A4 and 18 mts check, clearing AD notes and more.;;700000;700000;;;2023-07-01;30;2023-07-31;2;Open;;
+Air Atlanta Icelandic;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;JD;III;;;B747-400;TF-AMN;C1, C2, C3, D1, D2, A1, A2, A3, A4 and 18 mts check, clearing AD notes and more.;;1000000;800000;;;2023-05-01;30;2023-05-31;2;Open;;
+Air Atlanta Icelandic;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;JD;III;;;B747-400;TF-AMP;C1, A1, A2, A3, A4 and 18 mts check, clearing AD notes and more.;;700000;700000;;;2023-08-10;30;2023-09-09;2;Open;;
+Al-Baraka;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;RM;III;;;B737-800;TBA;C check;;300000;300000;;;2023-05-23;14;2023-06-06;4;Open;;
+Al-Hayya;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;RM;III;;;B737NG;TBA;C check;;300000;300000;;;2023-06-05;14;2023-06-19;4;Open;;
+ASL Belgium;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;JD;III;;;A330;OE-IFK;C Check;;500000;500000;;;2023-12-10;30;2024-01-09;4;Cancelled;Internal Customer;Duplicate data caused by Data Migration
+ASL Belgium;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;JD;III;;;;OE-ILC;;;500000;500000;;;2023-08-15;30;2023-09-14;4;Open;;
+CFM International;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;JT;III;;;CFM56-5B;N/A;N/A;;400000;400000;- [Oct 2022] Engine maintenance contract is not an offload scheme. Contract directly between Citilink and CFM.;;2023-03-12;45;2023-04-26;4;Cancelled;Internal Customer;- [Oct 2022] Engine maintenance contract is not an offload scheme. Contract directly between Citilink and CFM.
+CFM International;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;JT;III;;;CFM56-5B;N/A;N/A;;400000;400000;- [Oct 2022] Engine maintenance contract is not an offload scheme. Contract directly between Citilink and CFM.;;2023-05-04;45;2023-06-18;4;Cancelled;Internal Customer;- [Oct 2022] Engine maintenance contract is not an offload scheme. Contract directly between Citilink and CFM.
+CFM International;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;JT;III;;;CFM56-5B;N/A;N/A;;400000;400000;- [Oct 2022] Engine maintenance contract is not an offload scheme. Contract directly between Citilink and CFM.;;2023-06-06;45;2023-07-21;4;Cancelled;Internal Customer;- [Oct 2022] Engine maintenance contract is not an offload scheme. Contract directly between Citilink and CFM.
+CFM International;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;JT;III;;;CFM56-5B;N/A;N/A;;400000;400000;- [Oct 2022] Engine maintenance contract is not an offload scheme. Contract directly between Citilink and CFM.;;2023-01-08;45;2023-02-22;4;Cancelled;Internal Customer;- [Oct 2022] Engine maintenance contract is not an offload scheme. Contract directly between Citilink and CFM.
+CFM International;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;JT;III;;;CFM56-5B;N/A;N/A;;400000;400000;- [Oct 2022] Engine maintenance contract is not an offload scheme. Contract directly between Citilink and CFM.;;2023-02-10;45;2023-03-27;4;Cancelled;Internal Customer;- [Oct 2022] Engine maintenance contract is not an offload scheme. Contract directly between Citilink and CFM.
+Fly Meta (Atlanta);Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AK;III;;;B747-400;TF-WFF;C-check;;700000;700000;;;2023-03-10;30;2023-04-09;1;Open;;
+Flynas;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;RM;III;;;;;;;200000;200000;;;2023-05-01;14;2023-05-15;4;Open;;
+Griffon Aviation Services;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;RM;III;;;CFM56-7B;661629;1st SV;;500000;500000;;;2023-03-01;90;2023-05-30;4;Open;;
+Griffon Aviation Services;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;RM;III;;;CFM56-7B;661439;1st SV;;500000;500000;;;2023-05-01;90;2023-07-30;4;Open;;
+Griffon Aviation Services;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;RM;III;;;CFM56-7B;862511;1st SV;;500000;500000;;;2023-07-01;90;2023-09-29;4;Open;;
+Griffon Aviation Services;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;RM;III;;;CFM56-7B;658910;1st SV;;500000;500000;;;2023-09-01;90;2023-11-30;4;Open;;
+Griffon Aviation Services;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;RM;III;;;CFM56-7B;661426;1st SV;;500000;500000;;;2023-10-01;90;2023-12-30;4;Open;;
+Iraqi Airways;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;RM;III;;;B777-200;YI-AQZ;C check;;500000;500000;;;2023-10-17;14;2023-10-31;4;Open;;
+KLM Royal Dutch;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;JD;III;;;A330;PH-AKA;D1+IL 2 +CO2;;700000;700000;;;2023-01-30;30;2023-03-01;3;Cancelled;Internal Customer;Duplicate caused by data migration
+KLM Royal Dutch;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;JD;III;;;AC;PH-AKA;D + 1L + C02;;1000000;1569500;Harga approved, Supplemental Agreement process for signing;;2023-01-30;50;2023-03-21;1;Closed - Sales;;
+Martinair;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;JD;III;;;;PH-AOE;;;700000;700000;;;2023-07-31;30;2023-08-30;3;Open;;
+Quick Link Aviation;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AK;III;;;B747-400;9H-MSK;C-Check;;700000;700000;;;2023-02-01;30;2023-03-03;1;Closed - In;;
+ROM Cargo Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AK;III;;;;;;;500000;500000;;;2023-10-02;30;2023-11-01;4;Open;;
+Sky One;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AK;III;;;;YR-FSB;;;700000;700000;;;2023-06-01;30;2023-07-01;4;Open;;
+Tarco Aviation;Engine & APU;TMB Project;2023;NGA;Organic;;RKAP;;;;;RM;III;;;;;Minor Repair;;500000;500000;;;2023-07-01;90;2023-09-29;3;Open;;
+Transcarga;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;AK;III;;;;;;;500000;500000;;;2023-06-01;30;2023-05-08;4;Open;;
+UR Airlines;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;RM;III;;;B737-800;TBA;C check;;300000;300000;;;2023-04-18;20;2023-05-08;4;Open;;
+Citilink Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;A320 PK-GQL;PK-GTA;6 YEARS INSPECTION;;250000;250000;;;2023-01-29;25;2023-02-23;1;Closed - Sales;;
+Citilink Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;PK-GLP;ALL L/G CHANGE;;50000;50000;;;2023-02-07;4;2023-02-10;1;Open;;
+Citilink Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;PK-GTC;6 YEARS INSPECTION;;250000;250000;;;2023-02-13;25;2023-03-09;1;Open;;
+Citilink Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;PK-GLQ;ALL L/G CHANGE;;50000;50000;;;2023-02-22;4;2023-02-25;1;Open;;
+Citilink Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;PK-GQU;6 YEARS INSPECTION;;250000;250000;;;2023-03-07;25;2023-03-31;1;Open;;
+Citilink Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;PK-GTD;6 YEARS INSPECTION;;250000;250000;;;2023-04-30;25;2023-05-24;1;Open;;
+Citilink Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;PK-GTE;6 YEARS INSPECTION;;250000;250000;;;2023-05-03;25;2023-05-27;1;Open;;
+Citilink Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;PK-GTF;C02-CHECK + 6 YEARS INSPECTION;;250000;250000;;;2023-10-01;33;2023-11-02;1;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;PK-GLP;LDG OVH;;300000;300000;;;2023-03-02;100;2023-06-09;2;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;PK-GLQ;LDG OVH;;300000;300000;;;2023-03-20;100;2023-06-27;2;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;PK-GLR;LDG OVH;;300000;300000;;;2023-03-31;100;2023-07-08;2;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;PK-GLS;LDG OVH;;300000;300000;;;2023-03-28;100;2023-07-05;2;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;PK-GLT;LDG OVH;;300000;300000;;;2023-05-01;100;2023-08-08;2;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;PK-GLU;LDG OVH;;300000;300000;;;2023-04-28;100;2023-08-05;2;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;PK-GLV;LDG OVH;;300000;300000;;;2023-05-04;100;2023-08-11;2;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;PK-GLW;LDG OVH;;300000;300000;;;2023-05-26;100;2023-09-02;2;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;PK-GLX;LDG OVH;;300000;300000;;;2023-09-19;100;2023-12-27;1;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;PK-GLY;LDG OVH;;300000;300000;;;2023-01-01;100;2023-11-09;2;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;REPAIR/EXCHANGE;;300000;300000;;;2023-01-01;30;2023-01-30;1;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;REPAIR/EXCHANGE;;300001;300001;;;2023-02-01;28;2023-02-28;1;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;REPAIR/EXCHANGE;;300002;300002;;;2023-03-01;31;2023-03-31;1;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;REPAIR/EXCHANGE;;300003;300003;;;2023-04-01;30;2023-04-30;1;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;REPAIR/EXCHANGE;;300004;300004;;;2023-05-01;31;2023-05-31;1;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;REPAIR/EXCHANGE;;300005;300005;;;2023-06-01;30;2023-06-30;1;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;REPAIR/EXCHANGE;;300006;300006;;;2023-07-01;31;2023-07-31;1;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;REPAIR/EXCHANGE;;300007;300007;;;2023-08-01;31;2023-08-31;1;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;REPAIR/EXCHANGE;;300008;300008;;;2023-09-01;30;2023-09-30;1;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;REPAIR/EXCHANGE;;300009;300009;;;2023-10-01;31;2023-10-31;1;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;REPAIR/EXCHANGE;;300010;300010;;;2023-11-01;30;2023-11-30;1;Open;;
+Citilink Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;REPAIR/EXCHANGE;;300011;300011;;;2023-12-01;31;2023-12-31;1;Open;;
+Citilink Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;P-7005;Overhaul;;400000;400000;;;2023-02-01;50;2023-03-22;1;Open;;
+Citilink Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;P-7009;Overhaul;;400000;400000;;;2023-03-01;50;2023-04-19;1;Open;;
+Citilink Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;P-5297;Overhaul;;400000;400000;;;2023-05-03;50;2023-06-21;1;Open;;
+Citilink Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;P-6985;Overhaul;;400000;400000;;;2023-07-04;50;2023-08-22;1;Open;;
+Citilink Indonesia;Material Trading;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;MATERIAL AND LOGISTIC;;100000;100000;;;2023-01-01;30;2023-01-30;1;Open;;
+Citilink Indonesia;Material Trading;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;MATERIAL AND LOGISTIC;;100000;100000;;;2023-02-01;28;2023-02-28;1;Open;;
+Citilink Indonesia;Material Trading;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;MATERIAL AND LOGISTIC;;100000;100000;;;2023-03-01;31;2023-03-31;1;Open;;
+Citilink Indonesia;Material Trading;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;MATERIAL AND LOGISTIC;;100000;100000;;;2023-04-01;30;2023-04-30;1;Open;;
+Citilink Indonesia;Material Trading;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;MATERIAL AND LOGISTIC;;100000;100000;;;2023-05-01;31;2023-05-31;1;Open;;
+Citilink Indonesia;Material Trading;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;MATERIAL AND LOGISTIC;;100000;100000;;;2023-06-01;30;2023-06-30;1;Open;;
+Citilink Indonesia;Material Trading;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;MATERIAL AND LOGISTIC;;100000;100000;;;2023-07-01;31;2023-07-31;1;Open;;
+Citilink Indonesia;Material Trading;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;MATERIAL AND LOGISTIC;;100000;100000;;;2023-08-01;31;2023-08-31;1;Open;;
+Citilink Indonesia;Material Trading;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;MATERIAL AND LOGISTIC;;100000;100000;;;2023-09-01;30;2023-09-30;1;Open;;
+Citilink Indonesia;Material Trading;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;MATERIAL AND LOGISTIC;;100000;100000;;;2023-10-01;31;2023-10-31;1;Open;;
+Citilink Indonesia;Material Trading;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;MATERIAL AND LOGISTIC;;100000;100000;;;2023-11-01;30;2023-11-30;1;Open;;
+Citilink Indonesia;Material Trading;TMB Retail;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;MATERIAL AND LOGISTIC;;100000;100000;;;2023-12-01;31;2023-12-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;80536.78;80537;;;2023-01-01;30;2023-01-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;80536.78;80537;;;2023-02-01;28;2023-02-28;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;80536.78;80537;;;2023-03-01;31;2023-03-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;80536.78;80537;;;2023-04-01;30;2023-04-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;80536.78;80537;;;2023-05-01;31;2023-05-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;80536.78;80537;;;2023-06-01;30;2023-06-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;80536.78;80537;;;2023-07-01;31;2023-07-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;80536.78;80537;;;2023-08-01;31;2023-08-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;80536.78;80537;;;2023-09-01;30;2023-09-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;80536.78;80537;;;2023-10-01;31;2023-10-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;80536.78;80537;;;2023-11-01;30;2023-11-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;80536.78;80537;;;2023-12-01;31;2023-12-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;1871167.66;1871168;;;2023-01-01;30;2023-01-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;1871167.66;1871168;;;2023-02-01;28;2023-02-28;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;1871167.66;1871168;;;2023-03-01;31;2023-03-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;1871167.66;1871168;;;2023-04-01;30;2023-04-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;1871167.66;1871168;;;2023-05-01;31;2023-05-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;1871167.66;1871168;;;2023-06-01;30;2023-06-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;1871167.66;1871168;;;2023-07-01;31;2023-07-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;1871167.66;1871168;;;2023-08-01;31;2023-08-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;1871167.66;1871168;;;2023-09-01;30;2023-09-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;1871167.66;1871168;;;2023-10-01;31;2023-10-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;1871167.66;1871168;;;2023-11-01;30;2023-11-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;1871167.66;1871168;;;2023-12-01;31;2023-12-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;609351.19;609351;;;2023-01-01;30;2023-01-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;609351.19;609351;;;2023-02-01;28;2023-02-28;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;609351.19;609351;;;2023-03-01;31;2023-03-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;609351.19;609351;;;2023-04-01;30;2023-04-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;609351.19;609351;;;2023-05-01;31;2023-05-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;609351.19;609351;;;2023-06-01;30;2023-06-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;609351.19;609351;;;2023-07-01;31;2023-07-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;609351.19;609351;;;2023-08-01;31;2023-08-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;609351.19;609351;;;2023-09-01;30;2023-09-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;609351.19;609351;;;2023-10-01;31;2023-10-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;609351.19;609351;;;2023-11-01;30;2023-11-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;609351.19;609351;;;2023-12-01;31;2023-12-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26523.52;26524;;;2023-01-01;30;2023-01-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26523.52;26524;;;2023-02-01;28;2023-02-28;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26523.52;26524;;;2023-03-01;31;2023-03-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26523.52;26524;;;2023-04-01;30;2023-04-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26523.52;26524;;;2023-05-01;31;2023-05-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26523.52;26524;;;2023-06-01;30;2023-06-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26523.52;26524;;;2023-07-01;31;2023-07-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26523.52;26524;;;2023-08-01;31;2023-08-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26523.52;26524;;;2023-09-01;30;2023-09-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26523.52;26524;;;2023-10-01;31;2023-10-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26523.52;26524;;;2023-11-01;30;2023-11-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26523.52;26524;;;2023-12-01;31;2023-12-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;137554.17;137554;;;2023-01-01;30;2023-01-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;137554.17;137554;;;2023-02-01;28;2023-02-28;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;137554.17;137554;;;2023-03-01;31;2023-03-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;137554.17;137554;;;2023-04-01;30;2023-04-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;137554.17;137554;;;2023-05-01;31;2023-05-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;137554.17;137554;;;2023-06-01;30;2023-06-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;137554.17;137554;;;2023-07-01;31;2023-07-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;137554.17;137554;;;2023-08-01;31;2023-08-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;137554.17;137554;;;2023-09-01;30;2023-09-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;137554.17;137554;;;2023-10-01;31;2023-10-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;137554.17;137554;;;2023-11-01;30;2023-11-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;137554.17;137554;;;2023-12-01;31;2023-12-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26115.89;26116;;;2023-01-01;30;2023-01-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26115.89;26116;;;2023-02-01;28;2023-02-28;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26115.89;26116;;;2023-03-01;31;2023-03-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26115.89;26116;;;2023-04-01;30;2023-04-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26115.89;26116;;;2023-05-01;31;2023-05-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26115.89;26116;;;2023-06-01;30;2023-06-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26115.89;26116;;;2023-07-01;31;2023-07-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26115.89;26116;;;2023-08-01;31;2023-08-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26115.89;26116;;;2023-09-01;30;2023-09-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26115.89;26116;;;2023-10-01;31;2023-10-31;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26115.89;26116;;;2023-11-01;30;2023-11-30;1;Open;;
+Citilink Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;AP;KAM;;;;;;;26115.89;26116;;;2023-12-01;31;2023-12-31;1;Open;;
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B777;PK-GIA;3000 Days (8 Years) Inspection;;1250000;1250000;;;2023-01-01;67;2023-03-09;1;Closed - In;;
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GIH;3000 Days (8 Years) Inspection;;685010.99;685011;;;2023-07-01;67;2023-09-06;1;Closed - Sales;;
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B777;PK-GIJ;3000 Days (8 Years) Inspection;;685010.99;685011;;;2023-10-01;67;2023-12-07;1;Cancelled;Internal Customer;Missed Plan
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B777;PK-GII;3000 Days (8 Years) Inspection;;685010.99;685011;;;2023-12-01;67;2024-02-06;1;Cancelled;Internal Customer;Missed Plan
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GFW;10 Years Insp;;224625.58;224626;;;2023-06-22;22;2023-07-14;1;Closed - Sales;;
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GNC;10 Years Insp;;72158.68;72159;;;2023-12-01;14;2023-12-15;1;Cancelled;Internal Customer;Tidak termasuk dalam project 2023
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GFP;12 Years Insp;;88337.16;88337;;;2023-06-01;14;2023-06-15;1;Cancelled;Internal Customer;Tidak termasuk dalam project 2023
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GFS;12 Years Insp;;88337.16;88337;;;2023-09-01;14;2023-09-15;1;Cancelled;Internal Customer;Tidak termasuk dalam project 2023
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GEM;22 Years Insp;;23908.84;23909;;;2023-01-01;14;2023-01-15;1;Cancelled;Internal Customer;Tidak termasuk dalam project 2023
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GFQ;12 Years Insp;;88337.16;88337;;;2023-07-01;14;2023-07-15;1;Cancelled;Internal Customer;Tidak termasuk dalam project 2023
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GMA;14 Years Insp;;224625.58;224626;;;2023-05-01;14;2023-05-15;1;Closed - Sales;;
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GFV;10 Years Insp;;224625.58;224626;;;2023-05-15;14;2023-05-29;1;Closed - Sales;;
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GMD;14 Years Insp;;76446.83;76447;;;2023-11-01;14;2023-11-15;1;Cancelled;Internal Customer;Tidak termasuk project progress tahun 2023
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GMF;14 Years Insp;;76446.83;76447;;;2023-12-01;14;2023-12-15;1;Cancelled;Internal Customer;tidak termasuk project progress dengan dana PMN
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GMY;10 Years Insp;;224625.58;224626;;;2023-05-22;14;2023-06-05;1;Closed - Sales;;
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GFX;10 Years Insp;;224625.58;224626;;;2023-05-29;22;2023-06-20;1;Closed - Sales;;
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GFR;12 Years Insp;;88337.16;88337;;;2023-08-01;14;2023-08-15;1;Cancelled;Missed Plan;tidak termasuk dalam progress project dengan dana PMN
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GNE;9 Years Insp;;197040.88;197041;;;2023-02-01;14;2023-02-15;1;Closed - In;;
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GNF;9 Years Insp;;196550.75;246301;;;2023-05-22;22;2023-06-13;1;Closed - Sales;;
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GNQ;9 Years Inspection;;197040.88;197041;;;2023-02-01;22;2023-02-23;1;Closed - In;;
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GNQ;9 Years Inspection;;197040.88;197041;;;2023-02-27;22;2023-03-21;1;Closed - In;;
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;PK-GNR;9 Years Insp;;246301.1;246301;;;2023-03-15;22;2023-04-06;1;Closed - Sales;;
+Garuda Indonesia;Airframe;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330-300;PK-GPO;C02-Check + Component Completion;;1108704.1;1108704;;;2023-06-03;31;2023-07-04;1;Closed - Sales;;
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330-200;PK-GPO;D-Check;;3043661.73;3043662;;;2023-04-24;74;2023-07-07;1;Closed - Sales;;
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330-200;PK-GPL;D-Check;;3806265.11;3806265;;;2023-03-21;74;2023-06-03;1;Closed - Sales;;
+Garuda Indonesia;Airframe;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330;PK-GHG;C01-Check and 36+42 Months Inspection;;1108704.1;1108704;;;2023-03-01;54;2023-04-24;1;Closed - Sales;;
+Garuda Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GMY;Overhaul;;451000;451000;;;2023-04-01;55;2023-05-25;1;Open;;
+Garuda Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GFX;Overhaul;;451000;451000;;;2023-04-01;55;2023-05-25;1;Open;;
+Garuda Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GFV;Overhaul;;451000;451000;;;2023-06-01;55;2023-07-25;1;Open;;
+Garuda Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GFW LH;Overhaul;;451000;451000;;;2023-07-01;55;2023-08-24;1;Open;;
+Garuda Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GNA LH MLG;Overhaul;;451000;451000;;;2023-11-01;55;2023-12-25;1;Open;;
+Garuda Indonesia;Component;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GNC LH MLG;Overhaul;;451000;451000;;;2023-12-01;55;2024-01-24;1;Open;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;GTCP131-9B;P-8986;Shop Visit;;522827;522827;;;2023-07-01;50;2023-08-20;1;Closed - Sales;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GFV APU;Shop Visit;;507000;507000;;;2023-06-01;50;2023-07-20;1;Open;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GMY APU;Shop Visit;;507000;507000;;;2023-05-01;50;2023-06-19;1;Open;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;R413C;R413C;APU Exchange;;450000;450000;;;2023-02-01;50;2023-03-23;1;Closed - In;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GFW APU;Shop Visit;;507000;507000;;;2023-07-01;50;2023-08-19;1;Open;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GMF RH ENG;Overhaul;;7500000;7500000;;;2023-03-01;90;2023-05-29;2;Open;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GFP LH ENG;Overhaul;;7500000;7500000;;;2023-04-01;90;2023-06-29;2;Open;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GFM RH ENG;Overhaul;;7500000;7500000;;;2023-05-01;90;2023-07-29;2;Open;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GFR LH ENG;Overhaul;;7500000;7500000;;;2023-06-01;90;2023-08-29;2;Open;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GMF LH ENG;Overhaul;;7500000;7500000;;;2023-07-01;90;2023-09-28;2;Open;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GMP RH ENG;Overhaul;;7500000;7500000;;;2023-07-01;90;2023-09-28;1;Open;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GFP RH ENG;Overhaul;;7500000;7500000;;;2023-08-01;90;2023-10-29;1;Open;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GMV RH ENG;Overhaul;;7500000;7500000;;;2023-08-01;90;2023-10-29;1;Open;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GMV LH ENG;Overhaul;;7500000;7500000;;;2023-09-01;90;2023-11-29;1;Open;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GFR RH ENG;Overhaul;;7500000;7500000;;;2023-10-01;90;2023-12-29;1;Open;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;PK-GFM LH ENG;Overhaul;;7500000;7500000;;;2023-11-01;90;2024-01-29;1;Open;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330/B777/B737-800;Various;IFE Panasonic;;91666.67;91667;;;2023-01-01;30;2023-01-31;1;Closed - In;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330/B777/B737-800;Various;IFE Panasonic;;91666.67;91667;;;2023-02-01;30;2023-03-03;1;Closed - Sales;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330/B777/B737-800;Various;IFE Panasonic;;91666.67;91667;;;2023-03-01;30;2023-03-31;1;Closed - Sales;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330/B777/B737-800;Various;IFE Panasonic;;91666.67;91667;;;2023-04-01;30;2023-05-01;1;Closed - Sales;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330/B737-800/B777;Various;IFE Panasonic;;91666.67;91667;;;2023-05-01;30;2023-05-31;1;Closed - Sales;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330/B737-800/B777;Various;IFE Panasonic;;91666.67;91667;;;2023-06-01;30;2023-07-01;1;Closed - Sales;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330/B777/B737-800;Various;IFE Panasonic;;91666.67;91667;;;2023-07-01;30;2023-07-31;1;Closed - Sales;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B777/B737-800/A330;Various;IFE Panasonic;;91666.67;91667;;;2023-08-01;30;2023-08-31;1;Closed - Sales;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330/B777/B737-800;Various;IFE Panasonic;;91666.67;91667;;;2023-09-01;30;2023-10-01;1;Closed - Sales;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B777/B737-800/A330;Various;IFE Panasonic;;91666.67;91667;;;2023-10-01;30;2023-10-31;1;Closed - Sales;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B777/B737-800/A330;Various;IFE Panasonic;;91666.67;91667;;;2023-11-01;30;2023-12-01;1;Closed - Sales;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B777/B737-800/A330;Various;IFE Panasonic;;91666.67;91667;;;2023-12-01;30;2023-12-31;1;Closed - Sales;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330/B777/B737-800;Various;IFE Thales;;36063;36063;;;2023-01-01;30;2023-01-31;1;Cancelled;Customer Financial;Missed plan
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330/B777/B737-800;Various;IFE Thales;;36063;36063;;;2023-02-01;30;2023-03-03;1;Cancelled;Internal Customer;Missed Plan
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;Various;IFE Thales;;36063;36063;;;2023-03-01;30;2023-03-30;1;Open;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;Various;IFE Thales;;36063;36063;;;2023-04-01;30;2023-04-30;1;Open;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330/B777/B737-800;Various;IFE Thales;;36063;36063;;;2023-05-01;30;2023-05-31;1;Cancelled;Customer Financial;Missed Plan
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;Various;IFE Thales;;36063;36063;;;2023-06-01;30;2023-06-30;1;Open;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;Various;IFE Thales;;36063;36063;;;2023-07-01;30;2023-07-30;1;Open;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;Various;IFE Thales;;36063;36063;;;2023-08-01;30;2023-08-30;1;Open;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;Various;IFE Thales;;36063;36063;;;2023-09-01;30;2023-09-30;1;Open;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;Various;IFE Thales;;36063;36063;;;2023-10-01;30;2023-10-30;1;Open;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;Various;IFE Thales;;36063;36063;;;2023-11-01;30;2023-11-30;1;Open;;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;Various;IFE Thales;;36063;36063;;;2023-12-01;30;2023-12-30;1;Open;;
+Garuda Indonesia;Others;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330;VARIOUS;Seat Cover;;644530.4;644530;;;2023-01-01;30;2023-01-31;1;Cancelled;Missed Plan;
+Garuda Indonesia;Line;TMB Retail;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800;Various;Seat Cover;;213133.6;213134;;;2023-02-01;28;2023-03-01;1;Closed - In;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;Various;Various;Others;;704824.81;704825;;;2023-03-01;31;2023-04-01;1;Cancelled;Internal Customer;missed Plan
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;Various;Various;Others;;704824.81;704825;;;2023-04-01;30;2023-05-01;1;Cancelled;Internal Customer;Missed Plan
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;Various;Others;Others;;704824.81;704825;;;2023-05-01;31;2023-06-01;1;Cancelled;Missed Plan;Missed Plan
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;Various;Various;Others;;414647.5;414648;;;2023-06-01;30;2023-07-01;1;Closed - Sales;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;Various;Various;Others;;704824.81;704825;;;2023-07-01;31;2023-08-01;1;Cancelled;Missed Plan;Missed Plan
+Garuda Indonesia;Component;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;Various;Various;Component Reactivation;;485665;485665;;;2023-08-01;31;2023-09-01;1;Open;;
+Garuda Indonesia;Component;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;Various;Various;Component Reactivation;;485665;485665;;;2023-09-01;30;2023-10-01;1;Open;;
+Garuda Indonesia;Component;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;Various;Various;Component Reactivation;;485665;485665;;;2023-10-01;31;2023-11-01;1;Open;;
+Garuda Indonesia;Component;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;Various;Various;Component Reactivation;;485665;485665;;;2023-11-01;30;2023-12-01;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;;;;704824.81;704825;;;2023-12-01;31;2023-12-31;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;Various;Various;Others;;389342.95;389343;;;2023-01-01;30;2023-01-31;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;Various;Various;Others;;389342.95;389343;;;2023-02-01;28;2023-03-01;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;Various;Various;Other;;425352.38;425352;;;2023-03-01;31;2023-04-01;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;Various;Various;Others;;425352.38;425352;;;2023-04-01;30;2023-05-01;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;Various;Various;Others;;425352.38;425352;;;2023-05-01;31;2023-06-01;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;VArious;VArious;Others;;425352.38;425352;;;2023-06-01;30;2023-07-01;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;VArious;Various;Others;;425352.38;425352;;;2023-07-01;31;2023-08-01;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;Various;Various;Other;;425352.38;425352;;;2023-08-01;31;2023-09-01;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;Various;Various;Others;;497371.24;497371;;;2023-09-01;30;2023-10-01;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;VArious;Various;Others;;461361.81;461362;;;2023-10-01;31;2023-11-01;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;;;;144037.72;144038;;;2023-11-01;30;2023-11-30;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;;;;144037.72;144038;;;2023-12-01;31;2023-12-31;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;;;;842462.18;842462;;;2023-01-01;30;2023-01-30;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;;;;859644.39;859644;;;2023-02-01;28;2023-02-28;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;;;;1017827.5;1017828;;;2023-03-01;31;2023-03-31;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;;;;1017827.5;1017828;;;2023-04-01;30;2023-04-30;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;;;;1091477.1;1091477;;;2023-05-01;31;2023-05-31;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;;;;1003794.44;1003794;;;2023-06-01;30;2023-06-30;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;;;;1057801.46;1057801;;;2023-07-01;31;2023-07-31;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;;;;1128301.91;1128302;;;2023-08-01;31;2023-08-31;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;;;;1128301.91;1128302;;;2023-09-01;30;2023-09-30;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;;;;1128301.91;1128302;;;2023-10-01;31;2023-10-31;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;;;;1128301.91;1128302;;;2023-11-01;30;2023-11-30;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;;;;1128301.91;1128302;;;2023-12-01;31;2023-12-31;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;;;;;1947223.3;1947223;;;2023-01-01;30;2023-01-30;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737;Various;Reliability;;2289822;2289822;;;2023-05-16;28;2023-06-13;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B777;Various;Reliability;;3015819.54;3015820;;;2023-05-24;31;2023-06-24;1;Open;;
+Garuda Indonesia;Others;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330;Various;Reliability;;7132378.46;7132378;;;2023-04-01;30;2023-05-01;1;Open;;
+Garuda Indonesia;Component;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330/B777/B737-800;Various;Component Reactivation;;485665;485665;;;2023-01-09;31;2023-02-09;1;Closed - In;;
+Garuda Indonesia;Component;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330/B737-800/B777;VARIOUS;COMPONENT REACTIVATION;;485665;485665;;;2023-06-01;30;2023-07-01;1;Open;;
+Garuda Indonesia;Component;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B777/A330/B737-800;VARIOUS;COMPONENT REACTIVATION;;485665;485665;;;2023-05-01;31;2023-06-01;1;Open;;
+Garuda Indonesia;Component;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330/B737-800/B747;VARIOUS;COMPONENT REACTIVATION;;485665;485665;;;2023-04-03;31;2023-05-04;1;Open;;
+Garuda Indonesia;Component;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;B737-800/B747/A330;VARIOUS;COMPONENT REACTIVATION;;485665;485665;;;2023-03-06;30;2023-04-05;1;Open;;
+Garuda Indonesia;Component;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330/B737-800/B747;VARIOUS;COMPONENT REACTIVATION;;485665;485665;;;2023-02-06;31;2023-03-09;1;Closed - In;;
+Garuda Indonesia;Component;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330/B777/B737-800;VARIOUS;Component Reactivation;;485665;485665;;;2023-07-03;30;2023-08-02;1;Open;;
+Garuda Indonesia;Component;PBTH;2023;GA;Organic;;RKAP;;;;;RY;KAM;;;A330/B777/B737-800;Various;Component Reacivation;;485665;485665;;;2023-12-01;31;2024-01-01;1;Open;;
+Avolon;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;DR;II;;;A321;TBD1;Parking Storage + C-Check;;;350000;;;2023-05-16;60;2023-07-15;4;Open;;
+Azul Linhas Aereas;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;JT;III;;;A330;PR-AIU;Redelivery;;;200000;- [22 Nov 2022] Potential identified.;;2023-01-16;45;2023-03-02;4;Cancelled;Capacity Capability;Unavailable slot on customer requested period.
+KLM Royal Dutch;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;JD;III;;;PH-AOF;PH-AOF;C-Check;;;700000;Double input;;2023-11-30;45;2024-01-14;1;Cancelled;Missed Plan;Double input
+Wamos Air;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;JD;III;;;;EC-NHM;C-Check;;;500000;;;2023-11-01;18;2023-11-19;3;Open;;
+Pupuk Kujang;IGTE;TMB Project;2023;NGA;Organic;;Additional;;;;;DY;I;;;Hitachi 2006-J;NA;Major Inspection/Overhaul Generator;;;226000;Menunggu SPK dari Customer;;2023-01-10;21;2023-01-31;1;Closed - Sales;;
+Kereta Api Indonesia (Persero);IGTE;TMB Project;2023;NGA;Organic;;Additional;;;;;NA;I;;;DC Generator;;Rewinding DC Generator;;;150000;Double dengan RKAP;;2023-06-30;150;2023-11-27;4;Cancelled;Missed Plan;Double dengan RKAP
+Seacon;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;PN;I;;;A/C;T7-GHL;Painting;;;12000;Painting for ACAM;;2023-01-19;5;2023-01-24;1;Closed - In;;
+Fly Baghdad;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;RM;III;;;B737-800;YI-BAZ;AD Compliancd;;;50000;;;2023-01-10;7;2023-01-17;4;Cancelled;Customer Financial;Debt of FBA is too big. More than 2 MUSD
+Fly Baghdad;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;RM;III;;;B737-800;YI-BAY;AD Compliance;;;50000;;;2023-01-23;7;2023-01-30;4;Cancelled;Customer Financial;Debt FBA is TOO BIG. More than 2 MUSD
+Seacon;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;PN;I;;;painting T7 -RTX;painting T7-RTX;painting T7 -RTX;;;197000;painting T7-RTX;;2023-01-25;18;2023-02-12;1;Closed - In;;
+Aeroeagle;Engine & APU;TMB Project;2023;NGA;Organic;;Additional;;;;;JT;III;;;CFM56-3;726247;Performance restoration;;;130000;"- [22 Nov 2022] RFQ received.
+- [30 Nov 2022] COGS received. Preparing pricing & proposal.
+- [8 Dec 2022] Workscope, COGS and price review.
+- [16 Dec 2022] Proposal submitted.";;2023-02-27;90;2023-05-28;2;Cancelled;Customer Financial;The customer wants to focus the budget on completing WIP.
+Aeroeagle;Engine & APU;TMB Project;2023;NGA;Organic;;Additional;;;;;JT;III;;;CFM56-3;726282;Teardown. Parts donor to 726247.;;;30000;"- [22 Nov 2022] RFQ received.
+- [30 Nov 2022] COGS received. Preparing pricing & proposal.";;2023-02-27;30;2023-03-29;4;Cancelled;Customer Financial;The customer wants to focus the budget on completing WIP.
+Seacon;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;PN;I;;;Embraer 450 T7-977;T7-977;painting;;;170000;painting T7-977 ... aircraft still maintenance in Jet Aviation-SIN;;2023-02-16;14;2023-03-02;2;Open;;
+Aero Capital Solution;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;DR;II;;;B737NG;OE-IMA;HMV Check;;;395000;;;2023-01-02;30;2023-02-01;3;Cancelled;Internal Customer;Customer  mengalihkan pesawatnya ke MRO lain menimbang aspek-aspek dari sisi customer
+Avolon;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;DR;II;;;A321;TBD 2;Parking Storage + C-Check;;;350000;;;2023-05-16;60;2023-07-15;4;Cancelled;Reschedule;dijadwalkan ulang tanggal 16/01/2023
+Biman Bangladesh;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;DR;II;;;B777-300ER;S2-AFO;12 Years-Check;;;3780000;;;2023-10-01;60;2023-11-30;3;Cancelled;Reschedule;dijadwalkan ulang tanggal 01/10/2023
+Biman Bangladesh;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;DR;II;;;B777-300ER;S2-AFP;12 Years-Check;;;3780000;;;2023-11-30;60;2024-01-29;3;Cancelled;Reschedule;dijadwalkan ulang tanggal 30/11/2023
+Nauru Airlines;Engine & APU;TMB Project;2023;NGA;Organic;;Additional;;;;;AS;I;;;CFM56-3;ESN 856994;HPC FWD Stator Case Replacement;;;54000;Proposal has been sent, waiting customer approval;;2023-02-10;30;2023-03-12;2;Cancelled;Internal Customer;Senior Nauru management not approved
+Indonesia AirAsia;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;IH;II;;;A320;PK-AXU;C07+C08 Check;;;254000;Closed In;;2023-01-16;32;2023-02-17;1;Closed - In;;
+ACN Aero Teknik;Engine & APU;TMB Project;2023;NGA;Organic;;Additional;;;;;YK;I;;;GTCP85-129 (H);P100540;Test and issue ARC for FAA and CAAM certification;;;7000;Penawaran sedang di review;;2023-01-08;10;2023-01-18;1;Closed - In;;
+Pupuk Indonesia Energi;IGTE;TMB Project;2023;NGA;Organic;;Additional;;;;;NA;I;;;MS 5001 PA;;CI GE Fr 5;;;100000;Cancel, harga pemenang terpaut jauh dibawah harga GMF;;2023-03-01;30;2023-03-31;2;Cancelled;Pricing;Cancel, harga pemenang terpaut jauh dibawah harga GMF, harga GMF 1.5 milyar, harga PJBS 600 juta
+Kaltim Daya Mandiri (KDM);IGTE;TMB Project;2023;NGA;Organic;;Additional;;;;;NA;I;;;;;Repair MS 6001B;;;150000;Canceled Due to Pricing Issue;;2023-02-01;60;2023-04-02;2;Cancelled;Pricing;Pricing not Competitive with Albany
+My Indo Airlines;Engine & APU;TMB Project;2023;NGA;Organic;;Additional;;;;;YK;I;;;CFM56-3C1;ESN857524;Engine FOD CFM56-3C1 SN. 857524;;;400000;Menunggu keputusan MyIndo;;2023-03-20;90;2023-06-18;4;Open;;
+Cebu Pacific;Airframe;TMB Project;2023;NGA;Organic;;RKAP;;;;;IH;II;;;ATR72-500;RP-C7283;2YE+OOP+DE-ICER+WB;;250000;255600;closed sales;;2023-01-26;17;2023-02-12;1;Closed - Sales;;
+All Customer - Logistic;Material Trading;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;Material Trading & Logistic Reatil;Various;Material Trading & Logistic;;40000;40000;Monthly transaction Material & Logistic;;2023-02-01;27;2023-02-28;1;Closed - In;;
+All Customer - Logistic;Material Trading;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;Material Trading & Logistic;Various;Material Trading & Logistic;;40000;40000;Monthly transaction Material trading & Logistic retail;;2023-03-01;30;2023-03-31;4;Open;;
+All Customer - Logistic;Material Trading;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;Material Trading & Logistic;Various;Material Trading & Logistic;;40000;40000;Monthly transaction retail Material Trading & Logistic;;2023-04-01;30;2023-05-01;4;Open;;
+All Customer - Logistic;Material Trading;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;Material Trading & Logistic;Various;Material Trading & Logistic;;40000;40000;Monthly transaction retail Material Trading & Logistic;;2023-05-01;30;2023-05-31;4;Open;;
+All Customer - Logistic;Material Trading;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;Material Trading & Logistic;Various;Material Trading & Logistic;;40000;40000;Monthly transaction retail Material Trading & Logistic;;2023-06-01;30;2023-07-01;4;Open;;
+All Customer - Logistic;Material Trading;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;Material Trading & Logistic;Various;Material Trading & Logistic;;40000;40000;Monthly transaction retail Material Trading & Logistic;;2023-08-01;30;2023-08-31;4;Open;;
+All Customer - Logistic;Material Trading;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;Material Trading & Logistic;Various;Material Trading & Logistic;;40000;40000;Monthly transaction retail Material Trading & Logistic;;2023-10-01;30;2023-10-31;4;Open;;
+All Customer - Logistic;Material Trading;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;Material Trading & Logistic;Various;Material Trading & Logistic;;40000;40000;Monthly transaction retail Material Trading & Logistic;;2023-11-01;29;2023-11-30;4;Open;;
+All Customer - Logistic;Material Trading;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;Material Trading & Logistic;Various;Material Trading & Logistic;;40000;40000;Monthly transaction retail Material Trading & Logistic;;2023-12-01;30;2023-12-31;4;Open;;
+All Customer - Logistic;Material Trading;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;Material Trading & Logistic;Various;Material Trading & Logistic;;40000;40000;Monthly transaction retail Material Trading & Logistic;;2023-07-01;30;2023-07-31;4;Open;;
+All Customer - Logistic;Material Trading;TMB Project;2023;NGA;Organic;;RKAP;;;;;AM;I;;;Material Trading & Logistic;Various;Material Trading & Logistic;;40000;40000;Monthly transaction retail Material Trading & Logistic;;2023-09-01;29;2023-09-30;4;Open;;
+PT MCTN (Manda Cipta Tenaga Nusantara);IGTE;TMB Project;2023;NGA;Organic;;Additional;;;;;AM;I;;;Industrial Services;Various;Repair part Engine Frame 6;;;200000;Menunggu tender dan potensi project-project lain yang dapat dikolaborasikan dengan GMF.;;2023-04-27;90;2023-07-26;4;Cancelled;Internal Customer;Tender was confirmed cancelled
+PT Krakatau Daya Listrik;IGTE;TMB Project;2023;NGA;Organic;;Additional;;;;;AM;I;;;Industrial Services;Various;Tan Delta & Partial Dischargs Test;;;50000;Penawaran harga sudah disampaikan untuk pekerjaan Electrical Test for PE-2 MV Motor, saat ini sedang menunggu feedback dari customer karena informasinya akan ada perubahan scope of work dari user.;;2023-04-27;90;2023-07-26;4;Open;;
+Batam Bright;IGTE;TMB Project;2023;NGA;Organic;;Additional;;;;;AM;I;;;Repair Part;Various;Industrial Services;;;100000;Menunggu konfirmasi customer untuk additional order setelah perbaikan nozel yang akan dilanjutkan dengan repair part TM2500;;2023-06-20;60;2023-08-19;4;Open;;
+Batam Bright;IGTE;TMB Project;2023;NGA;Organic;;Additional;;;;;AM;I;;;Pengadaan Perbaikan Fuel Nozel;Various;Pengadaan Perbaikan Fuel Nozzel;;;200000;Tender Pengadaan Perbaikan FN tidak memenuhi quota peserta karena hanya diikuti oleh 1 peserta, GMF mengundurkan diri karena tidak ada kapabilitas repair FN. Akan dilakukan retender dengan harapan perubahan scope of work dan GMF bisa mengikuti kembali. Masih menunggu jadwal tender;;2023-04-23;90;2023-07-22;4;Open;;
+Iraqi Airways;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;RM;III;;;CRJ900;YI - AQA;LDG Replacement;;;20000;;;2023-02-13;5;2023-02-18;4;Cancelled;Capacity Capability;QA IAW request capability for CRJ900 to be included in GMF opspec in ICAA Approval
+Fly Baghdad;Airframe;TMB Project;2023;NGA;Organic;;Additional;;;;;RM;III;;;B737-800;YI-BBA;NDT engine;;;10000;AMS reject the request due to no reponse from FBA to email of outstanding invoices Reminder;;2023-01-09;3;2023-01-12;4;Cancelled;Customer Financial;Rej3cted due to no payment from FBA
+Airfast Indonesia;Learning;TMB Project;2023;NGA;Organic;;Additional;;;;;YK;I;;;;;TRAINING BOEING 737MAX (LEAP-1B) REFRESHING;;;6000;Proposal sudah di submit;;2023-01-17;5;2023-01-22;1;Closed - In;;
+TransNusa Aviation Mandiri;Airframe;TMB Project;2023;NGA;;;Additional;;;;;YK;I;;;PK-TLB;;C Check;;;150000;;;2023-02-13;40;2023-03-25;4;Cancelled;Internal Customer;Tender dimenangkan Malaysia
+Wright Aero Component;Engine & APU;TMB Project;2023;NGA;;;Additional;;;;;RM;III;;;CFM56-3;ESN 856139;Combuatuon Chamber Repair;;;350000;Proposal was sent in 20Dec2022;;2023-01-24;90;2023-04-24;3;Cancelled;Internal Customer;Duplicatee. Owner also sent RFQ thru Alfa /ARTS
+Wright Aero Component;Engine & APU;TMB Project;2023;NGA;;;Additional;;;;;RM;III;;;CFM56-3;ESN 857117;Repair shop visit;;;350000;Proposal was sent  on 20Dec;;2023-02-28;90;2023-05-29;3;Cancelled;Internal Customer;Owner send RFQ direct to GMF. Duplication
+Airfast Indonesia;Airframe;TMB Project;2023;NGA;;;Additional;;;;;YK;I;;;PK-OCT;;Aircraft Parking;;;15000;;;2023-01-01;30;2023-01-31;1;Closed - In;;
+Ariana Afghan;Engine & APU;TMB Project;2023;NGA;;;Additional;;;;;JT;III;;;CFM56-3C1;858529;Performance restoration;;;500000;"- [19 Dec 2022] Bidding information received. Need bidding period confirmation from ARTS Aviation.
+- [27 Feb 2023] No update from ARTS Aviation on the open bidding.";;2023-07-03;90;2023-10-01;4;Cancelled;Internal Customer;No bidding update
+Ariana Afghan;Engine & APU;TMB Project;2023;NGA;;;Additional;;;;;JT;III;;;CFM56-3C1;857581;Performance restoration;;;500000;"- [19 Dec 2022] Bidding information received. Need bidding period confirmation from ARTS Aviation.
+- [27 Feb 2023] No update from ARTS Aviation on the open bidding.";;2023-04-03;90;2023-07-02;4;Cancelled;Internal Customer;No bidding update
+Pelita Air Service;Airframe;TMB Project;2023;NGA;;;Additional;;;;;CB;II;;;Aircraft;PK-PWE;Aircraft Livery Painting;;;85000;;;2023-02-20;14;2023-03-06;4;Cancelled;Internal Customer;Painting Has been done by lessor
+Pelita Air Service;Airframe;TMB Project;2023;NGA;;;Additional;;;;;CB;II;;;Aircraft;5902;Aircraft Livery Painting;;;85000;Aircraft Livery Painting;;2023-03-15;14;2023-03-29;1;Closed - Sales;;
+Pelita Air Service;Airframe;TMB Project;2023;NGA;;;Additional;;;;;CB;II;;;Aircraft;PK-PWG;Aircraft Livery Painting;;;85000;;;2023-02-20;14;2023-03-06;1;Closed - Sales;;
+Tarintal Nasional Semesta Avasi;Engine & APU;TMB Project;2023;NGA;;;Additional;;;;;SS;II;;;Engine;721607;Balancing Module CFM56-3;;;27000;Balancing HPC, HPT, LPT and Booster;;2023-01-09;11;2023-01-20;1;Closed - In;;
+Tarintal Nasional Semesta Avasi;Engine & APU;TMB Project;2023;NGA;;;Additional;;;;;SS;II;;;Engine CFM56-3C1;857926;Compressor wash and test cell;;;35000;"Proposal in progress
+menunggu balancing engine 721607 selesai di TV";;2023-06-18;7;2023-06-25;4;Open;;
+Alfa Airlines;Engine & APU;TMB Project;2023;NGA;;;Additional;;;;;JT;III;;;CFM56-3;856139;Performance restoration;;;350000;"- [29 Dec 2022] Engine information received from customer. Preparing workscope and proposal.
+- [10 Jan 2023] Quotation submitted. ARTS Aero will communicate with Alfa Airlines to follow up.";;2023-04-10;90;2023-07-09;2;Open;;
+Alfa Airlines;Engine & APU;TMB Project;2023;NGA;;;Additional;;;;;JT;III;;;CFM56-3;857117;Performance restoration;;;350000;"- [29 Dec 2022] Engine information received from customer. Preparing workscope and proposal.
+- [10 Jan 2023] Quotation submitted. ARTS Aero will communicate with Alfa Airlines to follow up.";;2023-04-10;90;2023-07-09;2;Open;;
+Air Peace;Engine & APU;TMB Project;2023;NGA;;;Additional;;;;;JT;III;;;CFM56-3C1;727375;LLP replacement;;;300000;"- [31 Dec 2022] RFQ received.
+- [4 Jan 2023] COGS is being prepared. Asking Customer for more engine data for better engine condition understanding.
+- [14 Jan 2023] Proposal submitted.
+- [24 Jan 2023] Customer confirms proposal acceptance. Evaluation is on progress.
+- [1 Feb 2023] Customer is requesting NTE scenario in addition to submitted TMB proposal.";;2023-04-03;90;2023-07-02;2;Open;;
+Pertamina Hulu Energi OSES;IGTE;TMB Project;2023;NGA;;;Additional;;;;;HH;I;;;Frame 5;;Repair Rotor dan Compressor stator replacement;;;1000000;Budgetary proposal sudah submit selanjutnya Pertamina sedang menyiapakan dokumen tender resminya.;;2023-04-28;210;2023-11-24;3;Open;;
+Pertamina RU V;IGTE;TMB Project;2023;NGA;;;Additional;;;;;HH;I;;;Electric motor;Various;Overhaul 14 unit motor On call basis;;;150000;Menunggu info hasil pembukaan tender oleh Pertamina RU V Balikpapan;;2023-04-10;210;2023-11-06;3;Open;;
+Air Atlanta Icelandic;Airframe;TMB Project;2023;NGA;;;Additional;;;;;JD;III;;;B747-400;9H-AZA;C-Check;;;500000;Air Atlanta Europe;;2023-02-22;30;2023-03-24;1;Closed - Sales;;
+Gainjet;Airframe;TMB Project;2023;NGA;;;Additional;;;;;AR;II;;;B737-400;SX-ATF;C check;;;150000;;;2023-02-02;14;2023-02-16;3;Cancelled;Reschedule;Due to no hanggar slot reschedule to May 2023
+Aero Dili Transport;Airframe;TMB Project;2023;NGA;;;Additional;;;;;AR;II;;;A320;TBA;C check;;;150000;;;2023-06-06;15;2023-06-21;4;Open;;
+Indonesia AirAsia;Airframe;TMB Project;2023;NGA;;;Additional;;;;;IH;II;;;A320;PK-AZR;S/R -  Pre Service and Sticker Livery;;;25000;;;2023-02-18;7;2023-02-25;1;Closed - In;;
+Vietjet Air;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;CMF56-5;VN-A670;C02-Check;;;150000;;;2023-02-10;12;2023-02-22;3;Cancelled;Pricing;GMF Price 60%-70% higher compare to local MRO in Vietnam
+Bamboo Airways;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;V2500;VN-A583;C08+Reconfiguration;;;200000;;;2023-04-11;24;2023-05-05;3;Cancelled;Pricing;GMF Price 60%-70% higher compare to local MRO in Vietnam
+Bamboo Airways;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;V2500;VN-A584;C08-Check;;;150000;;;2023-05-08;24;2023-06-01;3;Cancelled;Pricing;GMF Price 60%-70% higher compare to local MRO in Vietnam
+Bamboo Airways;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;LEAP 1A;VN-A596;C02-Check;;;100000;;;2023-09-08;14;2023-09-22;3;Cancelled;Pricing;GMF Price 60%-70% higher compare to local MRO in Vietnam
+Bamboo Airways;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;V2500;VN-A595;C08-Check;;;150000;;;2023-10-02;24;2023-10-26;3;Cancelled;Pricing;GMF Price 60%-70% higher compare to local MRO in Vietnam
+Bamboo Airways;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;LEAP 1A;VN-A593;C02-Check;;;100000;;;2023-10-11;14;2023-10-25;3;Cancelled;Pricing;GMF Price 60%-70% higher compare to local MRO in Vietnam
+Bamboo Airways;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;CFM56-5B;VN-A594;C07+3Y+6Y+12Y;;;500000;;;2023-11-01;35;2023-12-06;3;Open;;
+Vietnam Airlines;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;CFM56-5;VN-A325;12YR Check;;;250000;;;2023-03-10;31;2023-04-10;4;Cancelled;Internal Customer;VNA policy all the A321 12Y-Check performed in Vaeco (Own MRO)
+Vietnam Airlines;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;CFM56-5;VN-A326;12YR Check;;;250000;;;2023-04-10;31;2023-05-11;4;Cancelled;Internal Customer;VNA policy all the maintenance performed in Vaeco (Own MRO)
+Vietnam Airlines;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;CFM56-5;VN-A327;12YR Check;;;250000;;;2023-05-11;31;2023-06-11;4;Cancelled;Internal Customer;VNA Management decide to perform maintenance in Own MRO
+Vietnam Airlines;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;CFM56-5;VN-A331;12YR Check;;;250000;;;2023-09-01;31;2023-10-02;4;Open;;
+Vietnam Airlines;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;CFM56-5;VN-A329;12YR Check;;;250000;;;2023-10-02;31;2023-11-02;4;Open;;
+Vietnam Airlines;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;CFM56-5;VN-A332;12YR Check;;;250000;;;2023-11-02;31;2023-12-03;4;Open;;
+Vietjet Air;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;RR Trent 700;VN-A810;C01-Check;;;250000;;;2023-09-18;21;2023-10-09;3;Cancelled;Pricing;GMF Price is higher compare to local MRO in Vietnam
+Vietjet Air;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;RR Trent 700;VN-A811;C01-Check;;;250000;;;2023-09-18;21;2023-10-09;3;Open;;
+Avolon;Airframe;TMB Project;2023;NGA;;;Additional;;;;;DR;II;;;A320;MSN 3693;6Y-Check+Painting;;;300000;;;2023-03-15;45;2023-04-29;3;Cancelled;Internal Customer;Termination process not finalize
+Avolon;Airframe;TMB Project;2023;NGA;;;Additional;;;;;DR;II;;;A320;MSN 3713;6Y-Check + Painting;;;300000;;;2023-04-15;45;2023-05-30;3;Cancelled;Internal Customer;Termination process not finalize
+SAYWELL INTERNATIONAL;Material Trading;TMB Project;2023;NGA;;;Additional;;;;;AM;I;;;ATR Surplus Material;Various;Material Trading;;;500000;Submit pricing proposal for package ATR surplus part in amount of 1.2 mio and waiting feedback from customer.;;2023-03-06;90;2023-06-04;4;Open;;
+Airfast Indonesia;Line;TMB Project;2023;NGA;;;Additional;;;;;YK;I;;;PK OCT;;Aircraft Parking;;;15000;;;2023-02-24;30;2023-03-26;1;Closed - In;;
+Cebu Pacific;Airframe;TMB Project;2023;NGA;;;Additional;;;;;IH;II;;;A320;RP-C3272;Painting;;;60000;;;2023-02-03;13;2023-02-16;1;Closed - In;;
+Martinair;Airframe;TMB Project;2023;NGA;;;Additional;;;;;JD;III;;;B747-400;PH-MPS;D06 + C03 +A09 + SSID + LH WLG + RH BLG + NLG;;;3440000;;;2023-04-10;73;2023-06-22;3;Open;;
+Martinair;Airframe;TMB Project;2023;NGA;;;Additional;;;;;JD;III;;;B747-400F;PH-CKC;C04 + A09 + LDG Change;;;963500;;;2023-06-22;30;2023-07-22;3;Open;;
+Global Aviation Consultancy;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;GE;EX-30002;C05-Check;;;175000;GMF is working under Operator Supervision;;2023-02-01;21;2023-02-22;1;Closed - Sales;;
+TransNusa Aviation Mandiri;Airframe;TMB Project;2023;NGA;;;Additional;;;;;YK;I;;;A320;PK-TLB;C-Check;;;150000;;;2023-02-27;30;2023-03-29;1;Closed - In;;
+K-mile;Engine & APU;TMB Project;2023;NGA;;;Additional;;;;;SS;II;;;Engine CFM56-3;857111;Recertification engine CFM56-3;;;43000;"waiting approval quotation.  ( customer already agree verbally)
+menunggu BOD approval";;2023-04-23;14;2023-05-07;2;Open;;
+Cebu Pacific;Airframe;TMB Project;2023;NGA;;;Additional;;;;;IH;II;;;A320;RP-C3273;Painting;;;60000;;;2023-03-17;13;2023-03-30;1;Closed - Sales;;
+PDQ AIRSPARES  PTE LTD;Material Trading;TMB Project;2023;NGA;;;Additional;;;;;AM;I;;;Surplus Part;Various;Material Trading Offset;;;500000;Proposal price for surplus part based on PDQ request list in amount of 1,4mio already submitted, under review and waiting customer counter offer;;2023-03-06;90;2023-06-04;4;Open;;
+PT. Muba Daya Pratama;IGTE;TMB Project;2023;NGA;;;Additional;;;;;AM;I;;;Turbin LM2500;Various;Pekerjaan Perbaikan dan Pemeliharaan Mesin Turbin LM 2500 PLTG Talang Duku;;;1500000;Proposal Harga sudah disampaikan tanggal 23 Februari 2023 dan sedang menunggu feedback dari customer.;;2023-04-23;180;2023-10-20;4;Open;;
+Vietjet Air;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;CFM56-5B;VN-A670;C02-Check;;;100000;;;2023-02-10;14;2023-02-24;1;Closed - Sales;;
+Pertamina RU IV;IGTE;TMB Project;2023;NGA;;;Additional;;;;;HH;I;;;Motor MV;;Repair Motor 048K101BM;;;55000;Submit tender tgl 13 Feb 2023;;2023-04-17;45;2023-06-01;3;Open;;
+KLM Royal Dutch;Airframe;TMB Project;2023;NGA;;;Additional;;;;;JD;III;;;A330-200;PH-AOF;C02+IL Check;;;1200000;;;2023-11-20;45;2024-01-04;3;Open;;
+Al Faradhi Aviation Academy;Learning;TMB Project;2023;NGA;;;Additional;;;;;RM;III;;;N.A;N.A;On line training;;;8000;;;2023-03-28;14;2023-04-11;4;Open;;
+Iraqi Airways;Component;TMB Project;2023;NGA;;;Additional;;;;;RM;III;;;A320;YI-ARA;O;;;350000;;;2023-03-27;55;2023-05-21;4;Open;;
+Wright Aero Component;Airframe;TMB Project;2023;NGA;;;Additional;;;;;RM;III;;;B737-500;ST-MRA;Tail repainting + seat reconfig;;;100000;;;2023-03-20;20;2023-04-09;4;Cancelled;Internal Customer;A/C is too old. More than 30 YO. Owner decided only maintain the engine and let the aircraft as is
+Garuda Indonesia;Airframe;PBTH;2023;GA;;;RKAP;;;;;RY;KAM;;;B777;PK-GIA;3000 Days Inspection;;2310527.23;2310527;;;2023-01-01;66;2023-03-08;1;Closed - In;;
+Air India;Airframe;TMB Project;2023;NGA;;;Additional;;;;;DR;II;;;B777-300ER;TBD;C-Check + Painting;;;300000;;;2023-03-15;30;2023-04-14;4;Cancelled;Capacity Capability;slot Not available on March
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;;;RKAP;;;;;RY;KAM;;;A330;PK-GHC;D-Check;;210000;210000;;;2023-01-01;20;2023-01-21;1;Closed - In;;
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;;;RKAP;;;;;RY;KAM;;;A330;PK-GPZ;D-Check + Component Completion;;846152;846152;;;2023-02-01;28;2023-03-01;1;Closed - In;;
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;;;RKAP;;;;;RY;KAM;;;A330;PK-GHD;D-Check + Component Completion;;3444331.23;3444331;;;2023-03-01;54;2023-04-24;1;Closed - In;;
+Garuda Indonesia;Airframe;TMB Retail;2023;GA;;;RKAP;;;;;RY;KAM;;;A330;PK-GHA;D-Check + Component Completion;;2382466.75;2382467;;;2023-01-30;47;2023-03-18;1;Closed - In;;
+Garuda Indonesia;Airframe;PBTH;2023;GA;;;RKAP;;;;;RY;KAM;;;A330;PK-GHG;C01-Check and 36+42 Months Inspection;;1108704.1;1108704;;;2023-03-09;20;2023-03-29;4;Cancelled;Missed Plan;SCMA ERROR
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;;;RKAP;;;;;RY;KAM;;;CFM56-7B;TBD;Overhaul;;7500000;7500000;;;2023-03-01;50;2023-04-20;1;Open;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;;;RKAP;;;;;RY;KAM;;;CFM56-7b;TBD;Overhaul;;7500000;7500000;;;2023-04-03;50;2023-05-23;1;Open;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;;;RKAP;;;;;RY;KAM;;;CFM56-7B;TBD;OVERHAUL;;7500000;7500000;;;2023-05-01;100;2023-08-09;1;Open;;
+Garuda Indonesia;Engine & APU;TMB Retail;2023;GA;;;RKAP;;;;;RY;KAM;;;CFM56-7B;TBD;OVERHAUL;;7500000;7500000;;;2023-06-06;50;2023-07-26;1;Open;;
+Citilink Indonesia;Component;PBTH;2023;GA;;;RKAP;;;;;AP;KAM;;;Component;TBD;Pooling Component;;6300000;6300000;;;2023-02-22;100;2023-06-02;4;Open;;
+Gainjet;Line;TMB Project;2023;NGA;;;Additional;;;;;AR;II;;;AC;SX-ATF;A02 Check;;;33200;;;2023-02-15;1;2023-02-16;1;Closed - In;;
+Pelita Air Service;Airframe;TMB Project;2023;NGA;;;Additional;;;;;CB;II;;;Aircraft;4780;Aircraft Livery painting;;;85000;;;2023-03-25;10;2023-04-04;3;Open;;
+Pelita Air Service;Airframe;TMB Project;2023;NGA;;;Additional;;;;;CB;II;;;Aircraft;3626;Aircraft Livery Painting;;;85000;;;2023-04-17;10;2023-04-27;3;Open;;
+Pelita Air Service;Airframe;TMB Project;2023;NGA;;;Additional;;;;;CB;II;;;Aircraft;3503;Airrcraft Livery Painting;;;84000;;;2023-04-24;10;2023-05-04;3;Open;;
+Pelita Air Service;Airframe;TMB Project;2023;NGA;;;Additional;;;;;CB;II;;;Aircraft;4616;Aircraft Livery Painting;;;85000;;;2023-05-08;10;2023-05-18;3;Open;;
+Vietjet Air;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;CFM56-5B;HS-VKA;Redelivery;;;1000000;;;2023-07-01;60;2023-08-30;3;Open;;
+Vietjet Air;Airframe;TMB Project;2023;NGA;;;Additional;;;;;TS;II;;;CFM56-5B;VN-A695;Redelivery;;;1000000;;;2023-09-01;60;2023-10-31;3;Open;;
+Tarintal Nasional Semesta Avasi;Engine & APU;TMB Project;2023;NGA;;;Additional;;;;;SS;II;;;CFM56-3C1;721785;balancing module HPT and Module HPC CFM56-3;;;20000;"waiting COGS from TV
+menunggu balancing module esn 721607 selesai di TV";;2023-05-21;7;2023-05-28;3;Open;;
+Wright Aero Component;Airframe;TMB Project;2023;NGA;;;Additional;;;;;RM;III;;;B737-94XER;Ex TC-MGH;C check;;;300000;;;2023-03-15;21;2023-04-05;4;Open;;
+Wright Aero Component;Airframe;TMB Project;2023;NGA;;;Additional;;;;;RM;III;;;B737-900;Ex TC-MGI;C check + repaint;;;300000;;;2023-03-21;21;2023-04-11;4;Open;;
+Akasa Aero Mandiri;Others;TMB Project;2023;NGA;;;Additional;;;;;AM;I;;;Scrap;Various;Scrap;;;22000;The transaction by limited biding and PT Akasa Aero Mandiri have announced the winner for the highest offering price.;;2023-03-06;60;2023-05-05;1;Closed - Sales;;
+Air Atlanta Icelandic;Airframe;TMB Project;2023;NGA;;;Additional;;;;;JD;III;;;B744-400;9H-AZB;"C1, C2, C3 + LWR Check  +AD's "" LG Replacement";;;500000;;;2023-03-20;28;2023-04-17;3;Open;;
+Serene Air;Engine & APU;TMB Project;2023;NGA;;;Additional;;;;;DR;II;;;CFM56-7B;ESN 896668;HPT Replacement;;;265000;;;2023-04-03;30;2023-05-03;3;Open;;
+Cebu Pacific;Airframe;TMB Project;2023;NGA;;;Additional;;;;;IH;II;;;A320;RP-C3273;A/C Painting;;;61000;Waiting for aircraft induction;;2023-03-21;14;2023-04-04;1;Cancelled;Internal Customer;duplicate
+ICC HVS CAPITAL;Engine & APU;TMB Project;2023;NGA;;;Additional;;;;;SS;II;;;CFM56-7B;892172;Repair;;;200000;COGS still in progress;;2023-05-15;14;2023-05-29;4;Open;;
+ICC HVS CAPITAL;Engine & APU;TMB Project;2023;NGA;;;Additional;;;;;SS;II;;;Engine CFM56-7B;893136;Repair;;;200000;COGS in progress;;2023-06-25;14;2023-07-09;4;Open;;
+Airfast Indonesia;Line;TMB Project;2023;NGA;;;Additional;;;;;YK;I;;;MD82;PK-OCT;Aircraft Parking;;;15000;;;2023-03-31;30;2023-04-30;1;Open;;
+Garuda Indonesia;Component;PBTH;2023;GA;;;RKAP;;;;;RY;KAM;;;B777/b737-800/A330;VARIOUS;CRIMI;;334988.63;334989;;;2023-06-06;30;2023-07-06;1;Open;;
